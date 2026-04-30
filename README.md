@@ -1,5 +1,9 @@
 # 🎂 GB-Delight-Cake-Assistant
 
+![Cake Assistant](DK.png)
+
+
+
 GB-Delight-Cake-Assistant is a simple chatbot designed to assist users with everything related to cakes — from recommendations and baking guides to troubleshooting and learning fun facts.
 
 ---
