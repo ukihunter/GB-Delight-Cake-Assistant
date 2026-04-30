@@ -1,0 +1,1477 @@
+[
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general_inquiry",
+    "timestamp": "2026-04-22T12:43:03.460073",
+    "data": {
+      "message": "hi",
+      "confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general_inquiry",
+    "timestamp": "2026-04-22T12:58:16.430191",
+    "data": {
+      "message": "hi",
+      "confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general_inquiry",
+    "timestamp": "2026-04-22T12:58:28.934388",
+    "data": {
+      "message": "how can you help me",
+      "confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general_inquiry",
+    "timestamp": "2026-04-22T13:05:35.745978",
+    "data": {
+      "message": "hi",
+      "confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general_inquiry",
+    "timestamp": "2026-04-22T13:05:46.135837",
+    "data": {
+      "message": "hello",
+      "confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general_inquiry",
+    "timestamp": "2026-04-22T13:05:53.303257",
+    "data": {
+      "message": "how can you help me",
+      "confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general_inquiry",
+    "timestamp": "2026-04-22T13:07:01.047359",
+    "data": {
+      "message": "hello",
+      "confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "recommend",
+    "timestamp": "2026-04-22T13:45:08.902347",
+    "data": {
+      "message": "Quick chocolate birthday cake",
+      "confidence": 0.7,
+      "entities": {
+        "flavor": "chocolate",
+        "flavor_confidence": 0.6666666666666666,
+        "occasion": "birthday",
+        "occasion_confidence": 0.6666666666666666,
+        "dietary_preferences": {},
+        "time_level": "very_quick",
+        "time_confidence": 0.6666666666666666,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": "easy",
+        "difficulty_confidence": 0.6666666666666666,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "recommend",
+    "timestamp": "2026-04-22T13:48:30.931454",
+    "data": {
+      "message": "Quick chocolate birthday cake",
+      "confidence": 0.7,
+      "entities": {
+        "flavor": "chocolate",
+        "flavor_confidence": 0.6666666666666666,
+        "occasion": "birthday",
+        "occasion_confidence": 0.6666666666666666,
+        "dietary_preferences": {},
+        "time_level": "very_quick",
+        "time_confidence": 0.6666666666666666,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": "easy",
+        "difficulty_confidence": 0.6666666666666666,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test_user_123",
+    "type": "recommend",
+    "timestamp": "2026-04-22T14:09:44.880390",
+    "data": {
+      "message": "I want a quick chocolate cake for my birthday",
+      "confidence": 0.7,
+      "entities": {
+        "flavor": "chocolate",
+        "flavor_confidence": 0.6666666666666666,
+        "occasion": "birthday",
+        "occasion_confidence": 0.6666666666666666,
+        "dietary_preferences": {},
+        "time_level": "very_quick",
+        "time_confidence": 0.6666666666666666,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": "easy",
+        "difficulty_confidence": 0.6666666666666666,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test_user_123",
+    "type": "general",
+    "timestamp": "2026-04-22T14:09:44.885387",
+    "data": {
+      "message": "Option 1",
+      "confidence": 0.5,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test_user_123",
+    "type": "general",
+    "timestamp": "2026-04-22T14:09:44.889392",
+    "data": {
+      "message": "Let me try Chocolate Birthday Delight",
+      "confidence": 0.5,
+      "entities": {
+        "flavor": "chocolate",
+        "flavor_confidence": 0.6666666666666666,
+        "occasion": "birthday",
+        "occasion_confidence": 0.6666666666666666,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test_user_123",
+    "type": "recommend",
+    "timestamp": "2026-04-22T14:10:50.727486",
+    "data": {
+      "message": "I want a quick chocolate cake for my birthday",
+      "confidence": 0.7,
+      "entities": {
+        "flavor": "chocolate",
+        "flavor_confidence": 0.6666666666666666,
+        "occasion": "birthday",
+        "occasion_confidence": 0.6666666666666666,
+        "dietary_preferences": {},
+        "time_level": "very_quick",
+        "time_confidence": 0.6666666666666666,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": "easy",
+        "difficulty_confidence": 0.6666666666666666,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test_user_123",
+    "type": "recommend",
+    "timestamp": "2026-04-22T14:12:42.716314",
+    "data": {
+      "message": "I want a quick chocolate cake for my birthday",
+      "confidence": 0.7,
+      "entities": {
+        "flavor": "chocolate",
+        "flavor_confidence": 0.6666666666666666,
+        "occasion": "birthday",
+        "occasion_confidence": 0.6666666666666666,
+        "dietary_preferences": {},
+        "time_level": "very_quick",
+        "time_confidence": 0.6666666666666666,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": "easy",
+        "difficulty_confidence": 0.6666666666666666,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test_user_123",
+    "type": "general",
+    "timestamp": "2026-04-22T14:12:42.719329",
+    "data": {
+      "message": "Option 1",
+      "confidence": 0.5,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test_user_123",
+    "type": "general",
+    "timestamp": "2026-04-22T14:12:42.723311",
+    "data": {
+      "message": "Let me try Chocolate Birthday Delight",
+      "confidence": 0.5,
+      "entities": {
+        "flavor": "chocolate",
+        "flavor_confidence": 0.6666666666666666,
+        "occasion": "birthday",
+        "occasion_confidence": 0.6666666666666666,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test",
+    "type": "general",
+    "timestamp": "2026-04-22T14:12:42.753299",
+    "data": {
+      "message": "Option 1",
+      "confidence": 0.5,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test",
+    "type": "general",
+    "timestamp": "2026-04-22T14:12:42.756291",
+    "data": {
+      "message": "Option 2",
+      "confidence": 0.5,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test",
+    "type": "recommend",
+    "timestamp": "2026-04-22T14:12:42.760289",
+    "data": {
+      "message": "Random Cake Name",
+      "confidence": 0.7,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test_user_123",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-22T18:28:07.638218",
+    "data": {
+      "message": "my cake is dry",
+      "confidence": 0.16666666666666666,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "test_user_123",
+    "type": "recommend",
+    "timestamp": "2026-04-22T18:28:07.643216",
+    "data": {
+      "message": "why didn't my cake rise?",
+      "confidence": 0.7,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test_user_123",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-22T18:28:07.647215",
+    "data": {
+      "message": "it's burnt",
+      "confidence": 0.14285714285714285,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "test_user_456",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-22T18:28:07.655209",
+    "data": {
+      "message": "Hi, I made a cake but something went wrong",
+      "confidence": 0.0,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "test_user_456",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-22T18:28:07.670200",
+    "data": {
+      "message": "my cake is flat and didn't rise",
+      "confidence": 0.3333333333333333,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "test_user_456",
+    "type": "general",
+    "timestamp": "2026-04-22T18:28:07.676197",
+    "data": {
+      "message": "what should I do differently next time?",
+      "confidence": 0.5,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test_user_123",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-22T18:28:51.333639",
+    "data": {
+      "message": "my cake is dry",
+      "confidence": 0.16666666666666666,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "test_user_123",
+    "type": "recommend",
+    "timestamp": "2026-04-22T18:28:51.337621",
+    "data": {
+      "message": "why didn't my cake rise?",
+      "confidence": 0.7,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "test_user_123",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-22T18:28:51.340619",
+    "data": {
+      "message": "it's burnt",
+      "confidence": 0.14285714285714285,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "test_user_456",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-22T18:28:51.347615",
+    "data": {
+      "message": "Hi, I made a cake but something went wrong",
+      "confidence": 0.0,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "test_user_456",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-22T18:28:51.351630",
+    "data": {
+      "message": "my cake is flat and didn't rise",
+      "confidence": 0.3333333333333333,
+      "problem_key": "flat_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "test_user_456",
+    "type": "general",
+    "timestamp": "2026-04-22T18:28:51.355649",
+    "data": {
+      "message": "what should I do differently next time?",
+      "confidence": 0.5,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "demo_user",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-22T18:33:59.105261",
+    "data": {
+      "message": "The cake is really dry and crumbly",
+      "confidence": 0.3333333333333333,
+      "problem_key": "dry_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "demo_user",
+    "type": "general",
+    "timestamp": "2026-04-22T18:33:59.111258",
+    "data": {
+      "message": "What should I do differently next time?",
+      "confidence": 0.5,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-22T18:54:36.675052",
+    "data": {
+      "message": "My cake is dry",
+      "confidence": 0.16666666666666666,
+      "problem_key": "dry_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-22T18:56:50.276425",
+    "data": {
+      "message": "my cake is dry",
+      "confidence": 0.16666666666666666,
+      "problem_key": "dry_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "recommend",
+    "timestamp": "2026-04-22T18:57:42.019021",
+    "data": {
+      "message": "Surprise me with a unique cake idea!",
+      "confidence": 0.7,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "recommend",
+    "timestamp": "2026-04-22T18:58:01.203774",
+    "data": {
+      "message": "Recommend a delicious cake for a birthday party",
+      "confidence": 0.9,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": "birthday",
+        "occasion_confidence": 0.6666666666666666,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      }
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general",
+    "timestamp": "2026-04-23T00:25:26.136037",
+    "data": {
+      "message": "hi",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-23T00:26:10.523991",
+    "data": {
+      "message": "do you know about the Strawberry cake",
+      "confidence": 0.14285714285714285,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-23T00:26:26.957715",
+    "data": {
+      "message": "Strawberry cake",
+      "confidence": 0.14285714285714285,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-23T00:42:24.941899",
+    "data": {
+      "message": "dry cake",
+      "confidence": 0.16666666666666666,
+      "problem_key": "dry_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "info",
+    "timestamp": "2026-04-23T13:56:48.231376",
+    "data": {
+      "message": "What is unicorn",
+      "confidence": 0.8,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general",
+    "timestamp": "2026-04-24T18:35:24.987666",
+    "data": {
+      "message": "hi",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general",
+    "timestamp": "2026-04-24T18:35:41.146019",
+    "data": {
+      "message": "hello",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general",
+    "timestamp": "2026-04-24T18:39:38.030890",
+    "data": {
+      "message": "hello",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general",
+    "timestamp": "2026-04-24T18:39:52.851566",
+    "data": {
+      "message": "thanks",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "test",
+    "type": "general",
+    "timestamp": "2026-04-24T18:40:37.901076",
+    "data": {
+      "message": "hi",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "test",
+    "type": "general",
+    "timestamp": "2026-04-24T18:40:37.906073",
+    "data": {
+      "message": "hello",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "test",
+    "type": "general",
+    "timestamp": "2026-04-24T18:40:37.912054",
+    "data": {
+      "message": "thanks",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general",
+    "timestamp": "2026-04-24T18:41:52.202843",
+    "data": {
+      "message": "hi",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "test",
+    "type": "general",
+    "timestamp": "2026-04-24T18:43:01.457598",
+    "data": {
+      "message": "hi",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "test",
+    "type": "general",
+    "timestamp": "2026-04-24T18:43:01.463570",
+    "data": {
+      "message": "hello",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "test",
+    "type": "general",
+    "timestamp": "2026-04-24T18:43:01.468567",
+    "data": {
+      "message": "thanks",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "test",
+    "type": "general",
+    "timestamp": "2026-04-24T18:43:15.843551",
+    "data": {
+      "message": "hi",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "test",
+    "type": "general",
+    "timestamp": "2026-04-24T18:43:15.848548",
+    "data": {
+      "message": "hello",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "test",
+    "type": "general",
+    "timestamp": "2026-04-24T18:43:15.852535",
+    "data": {
+      "message": "thanks",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general",
+    "timestamp": "2026-04-24T18:44:48.730998",
+    "data": {
+      "message": "hi",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:27:58.701626",
+    "data": {
+      "message": "My cake is dry",
+      "confidence": 0.16666666666666666,
+      "problem_key": "dry_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:30:38.016929",
+    "data": {
+      "message": "dry",
+      "confidence": 0.16666666666666666,
+      "problem_key": "dry_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:49:00.977865",
+    "data": {
+      "message": "my cake is Dry Cake",
+      "confidence": 0.16666666666666666,
+      "problem_key": "dry_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "test_user",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:51:22.417555",
+    "data": {
+      "message": "my cake is dry",
+      "confidence": 0.16666666666666666,
+      "problem_key": "dry_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "test_user",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:51:22.444541",
+    "data": {
+      "message": "my cake came out dry",
+      "confidence": 0.16666666666666666,
+      "problem_key": "dry_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "test_user",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:51:22.487591",
+    "data": {
+      "message": "the cake is burnt",
+      "confidence": 0.14285714285714285,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "test_user",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:51:22.510127",
+    "data": {
+      "message": "my cake is flat",
+      "confidence": 0.16666666666666666,
+      "problem_key": "flat_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "test_user",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:51:22.526656",
+    "data": {
+      "message": "i need help with my cake",
+      "confidence": 0.0,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "test_user",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:52:51.138727",
+    "data": {
+      "message": "my cake is dry",
+      "confidence": 0.85,
+      "problem_confidence": 0.16666666666666666,
+      "problem_key": "dry_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "test_user",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:52:51.151230",
+    "data": {
+      "message": "my cake came out dry",
+      "confidence": 0.85,
+      "problem_confidence": 0.16666666666666666,
+      "problem_key": "dry_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "test_user",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:52:51.162752",
+    "data": {
+      "message": "the cake is burnt",
+      "confidence": 0.85,
+      "problem_confidence": 0.14285714285714285,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "test_user",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:52:51.175779",
+    "data": {
+      "message": "my cake is flat",
+      "confidence": 0.85,
+      "problem_confidence": 0.16666666666666666,
+      "problem_key": "flat_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "test_user",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:52:51.197272",
+    "data": {
+      "message": "i need help with my cake",
+      "confidence": 0.85,
+      "problem_confidence": 0.0,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:55:22.884293",
+    "data": {
+      "message": "my cake is dry",
+      "confidence": 0.85,
+      "problem_confidence": 0.16666666666666666,
+      "problem_key": "dry_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:56:14.556554",
+    "data": {
+      "message": "my cake came out burnt",
+      "confidence": 0.85,
+      "problem_confidence": 0.14285714285714285,
+      "problem_key": null,
+      "problem_detected": false
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-29T21:56:45.726762",
+    "data": {
+      "message": "my cake is flat",
+      "confidence": 0.85,
+      "problem_confidence": 0.16666666666666666,
+      "problem_key": "flat_cake",
+      "problem_detected": true
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "info",
+    "timestamp": "2026-04-29T22:02:00.838344",
+    "data": {
+      "message": "What is a mirror glaze cake?",
+      "confidence": 0.8,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "info",
+    "timestamp": "2026-04-29T22:02:09.804883",
+    "data": {
+      "message": "What is a mirror glaze cake?",
+      "confidence": 0.8,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general",
+    "timestamp": "2026-04-29T22:15:04.029590",
+    "data": {
+      "message": "Hello",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general",
+    "timestamp": "2026-04-29T23:07:22.406910",
+    "data": {
+      "message": "hello",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general",
+    "timestamp": "2026-04-30T11:03:40.161281",
+    "data": {
+      "message": "hi",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general",
+    "timestamp": "2026-04-30T11:03:48.060333",
+    "data": {
+      "message": "hi",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general",
+    "timestamp": "2026-04-30T11:04:21.070357",
+    "data": {
+      "message": "hello",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "general",
+    "timestamp": "2026-04-30T11:04:24.357769",
+    "data": {
+      "message": "thanks",
+      "confidence": 0.6,
+      "entities": {
+        "flavor": null,
+        "flavor_confidence": 0.0,
+        "occasion": null,
+        "occasion_confidence": 0.0,
+        "dietary_preferences": {},
+        "time_level": null,
+        "time_confidence": 0.0,
+        "budget_level": null,
+        "budget_confidence": 0.0,
+        "difficulty": null,
+        "difficulty_confidence": 0.0,
+        "negations": []
+      },
+      "mood": null,
+      "mood_confidence": 0.0
+    }
+  },
+  {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "type": "cake_doctor",
+    "timestamp": "2026-04-30T11:05:16.474886",
+    "data": {
+      "message": "Can you help me fix my cake recipe? It came out too dry",
+      "confidence": 0.85,
+      "problem_confidence": 0.16666666666666666,
+      "problem_key": "dry_cake",
+      "problem_detected": true
+    }
+  }
+]

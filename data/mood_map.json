@@ -1,0 +1,83 @@
+{
+  "follow_up_question": "I want to tailor this to your mood. Are you feeling happy, stressed, sad, or celebrating something?",
+  "moods": {
+    "celebration": {
+      "keywords": [
+        "happy",
+        "celebration",
+        "party",
+        "excited",
+        "birthday",
+        "congrats"
+      ],
+      "preferred_occasions": [
+        "birthday",
+        "celebration",
+        "party",
+        "wedding"
+      ],
+      "preferred_flavors": [
+        "strawberry",
+        "vanilla"
+      ],
+      "emoji": "🎉"
+    },
+    "comfort": {
+      "keywords": [
+        "sad",
+        "down",
+        "lonely",
+        "comfort",
+        "heartbroken"
+      ],
+      "preferred_occasions": [
+        "general celebration"
+      ],
+      "preferred_flavors": [
+        "chocolate",
+        "cocoa",
+        "vanilla"
+      ],
+      "emoji": "🤗"
+    },
+    "stress_relief": {
+      "keywords": [
+        "stressed",
+        "anxious",
+        "overwhelmed",
+        "tired",
+        "burnout"
+      ],
+      "preferred_occasions": [
+        "gathering",
+        "general celebration"
+      ],
+      "preferred_flavors": [
+        "chocolate",
+        "lemon",
+        "strawberry"
+      ],
+      "emoji": "🧘"
+    },
+    "romantic": {
+      "keywords": [
+        "romantic",
+        "love",
+        "date",
+        "anniversary",
+        "valentine"
+      ],
+      "preferred_occasions": [
+        "anniversary",
+        "wedding",
+        "celebration"
+      ],
+      "preferred_flavors": [
+        "strawberry",
+        "red velvet",
+        "chocolate"
+      ],
+      "emoji": "💖"
+    }
+  }
+}

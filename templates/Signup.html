@@ -1,0 +1,366 @@
+<!doctype html>
+
+<html class="light" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Sign Up - GB Delight</title>
+    <link
+      href="{{ url_for('static', filename='tailwind.css') }}"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+      rel="stylesheet"
+    />
+    <!-- Tailwind is compiled locally into static/tailwind.css for offline use -->
+    <script type="application/json" id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "surface-container-low": "#ffeff8",
+              tertiary: "#605a5d",
+              "on-surface-variant": "#5b3f43",
+              secondary: "#805062",
+              "error-container": "#ffdad6",
+              "secondary-fixed-dim": "#f2b6cb",
+              "primary-container": "#e2165f",
+              "on-secondary-container": "#7b4c5e",
+              "on-secondary-fixed": "#330f1f",
+              "on-primary-container": "#fffbff",
+              "surface-tint": "#bc004b",
+              "on-primary-fixed-variant": "#900038",
+              "tertiary-container": "#7a7375",
+              "on-secondary-fixed-variant": "#65394b",
+              "on-error-container": "#93000a",
+              "primary-fixed": "#ffd9de",
+              "tertiary-fixed-dim": "#cdc4c7",
+              "on-surface": "#21191f",
+              "on-secondary": "#ffffff",
+              "inverse-on-surface": "#fcecf5",
+              background: "#fff7f9",
+              "surface-container-lowest": "#ffffff",
+              "surface-bright": "#fff7f9",
+              surface: "#fff7f9",
+              "on-tertiary-container": "#fffbff",
+              "on-primary": "#ffffff",
+              "surface-container-high": "#f3e4ed",
+              "on-background": "#21191f",
+              "outline-variant": "#e4bdc2",
+              "surface-dim": "#e5d6df",
+              "on-error": "#ffffff",
+              "inverse-primary": "#ffb2be",
+              "inverse-surface": "#372e34",
+              "primary-fixed-dim": "#ffb2be",
+              outline: "#8f6f73",
+              "on-tertiary-fixed": "#1f1a1d",
+              "on-tertiary": "#ffffff",
+              primary: "#b80049",
+              "surface-container": "#f9eaf2",
+              "secondary-container": "#fec1d6",
+              "surface-container-highest": "#eedee7",
+              error: "#ba1a1a",
+              "on-tertiary-fixed-variant": "#4b4548",
+              "secondary-fixed": "#ffd9e4",
+              "tertiary-fixed": "#eae0e3",
+              "on-primary-fixed": "#400014",
+              "surface-variant": "#eedee7",
+            },
+            borderRadius: {
+              DEFAULT: "0.25rem",
+              lg: "0.5rem",
+              xl: "0.75rem",
+              full: "9999px",
+            },
+            spacing: {
+              md: "24px",
+              sm: "12px",
+              xs: "4px",
+              base: "8px",
+              xl: "64px",
+              gutter: "16px",
+              lg: "40px",
+              "container-margin": "24px",
+            },
+            fontFamily: {
+              caption: ["Plus Jakarta Sans"],
+              "label-md": ["Plus Jakarta Sans"],
+              "display-lg": ["Plus Jakarta Sans"],
+              "body-md": ["Plus Jakarta Sans"],
+              "body-lg": ["Plus Jakarta Sans"],
+              "headline-md": ["Plus Jakarta Sans"],
+              "headline-lg": ["Plus Jakarta Sans"],
+            },
+            fontSize: {
+              caption: ["12px", { lineHeight: "16px", fontWeight: "500" }],
+              "label-md": [
+                "14px",
+                {
+                  lineHeight: "20px",
+                  letterSpacing: "0.01em",
+                  fontWeight: "600",
+                },
+              ],
+              "display-lg": [
+                "48px",
+                {
+                  lineHeight: "56px",
+                  letterSpacing: "-0.02em",
+                  fontWeight: "700",
+                },
+              ],
+              "body-md": ["16px", { lineHeight: "24px", fontWeight: "400" }],
+              "body-lg": ["18px", { lineHeight: "28px", fontWeight: "400" }],
+              "headline-md": [
+                "24px",
+                { lineHeight: "32px", fontWeight: "600" },
+              ],
+              "headline-lg": [
+                "32px",
+                {
+                  lineHeight: "40px",
+                  letterSpacing: "-0.01em",
+                  fontWeight: "700",
+                },
+              ],
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      body {
+        font-family: "Plus Jakarta Sans", sans-serif;
+        background: linear-gradient(135deg, #fff7f9 0%, #ffeff8 100%);
+        min-height: 100vh;
+      }
+      .material-symbols-outlined {
+        font-variation-settings:
+          "FILL" 0,
+          "wght" 400,
+          "GRAD" 0,
+          "opsz" 24;
+      }
+      .dough-line-bg {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        opacity: 0.4;
+        pointer-events: none;
+      }
+    </style>
+  </head>
+  <body
+    class="flex flex-col items-center justify-center p-md overflow-x-hidden"
+  >
+    <div class="dough-line-bg overflow-hidden">
+      <div
+        class="absolute top-10 left-10 w-32 h-32 opacity-20 transform -rotate-12"
+      >
+        <img
+          alt=""
+          data-alt="minimalist monolinear dough-line art of a cupcake with rounded strokes and a soft pink watercolor splash background"
+          src="https://lh3.googleusercontent.com/aida-public/AB6AXuBvoXEPYwEPBi4gXHWBJ2-cWi7oAHDHBl5ii8xrsYIkdPro7wHt0zyOpBnVGSDOzP1LKFnqt_yfN2QRVNL5Cjmq28Mz6KjGlfRrs0xV4Q4OD4jFD6pGnwNuw_TmXTZilgOve314b91YP_5UOEJDQDvml5S8nY8gOkZyH9zg9Ta6vtUxx-s96ePxkEEEHjJTamb269zA-SFad7J9gEqvALFelwcFia7XrNmjA3AuQZF7VT_Awehqb90t66zkOyfA42wC3lWbt7rViLk"
+        />
+      </div>
+      <div
+        class="absolute bottom-20 right-10 w-40 h-40 opacity-20 transform rotate-12"
+      >
+        <img
+          alt=""
+          data-alt="minimalist monolinear dough-line art of a croissant with rounded strokes and a soft peach watercolor splash background"
+          src="https://lh3.googleusercontent.com/aida-public/AB6AXuDUKlOg3MVQ3mjaV2xRDCacQk04_hDMQB_IZv0NBsaytn64HSsgp0fsKlhn2mH4ad-zSG3gvE-roz77DXxchL3A4iZBck-gU-L8hBaCm5SBanpuK4lMP4pJRdXU1UgLWcVbwuxOvk0o6-xDHo5qQzo2sSLtZSbXC6lzh498ZaTuALC5KeCcdfiPRzZQhfCeAVUdKqaYpqliAFo033K6X1UdhYUIwu5LqJZBj_AVUWETDmzNSXRg5BYcQ4IfVC0CXZeWdPJY5qdnAwU"
+        />
+      </div>
+      <div
+        class="absolute top-1/4 right-20 w-24 h-24 opacity-20 transform rotate-45"
+      >
+        <img
+          alt=""
+          data-alt="minimalist monolinear dough-line art of a slice of cake with rounded strokes and a soft lavender watercolor splash background"
+          src="https://lh3.googleusercontent.com/aida-public/AB6AXuAOd5foHJXGJpbOLqxdCJGwsSfiZhZjCNnAJzU4w6yERhVQa9fHtW1eFJvNFe3JIYzGToywk5UamboGMO3oTCmO6OkNkeIvM3ZeGiGk-g4ys4Vr4ulvxEAsq3kwBhT3WGTOycZI73aobDDxdKVxUlx7kpfRDbqpY8rdgZSNz_uzQ36mpVLNm6xWWlHH2YL4DJNlXI7UoHKyb9fIbkJRYMJ4Nq10kCJi2icIbzWjdkxkQq-iac5XGorX-ZKTloCPo3PUMLagu_JviC8"
+        />
+      </div>
+    </div>
+    <div class="w-full max-w-[440px] z-10">
+      <header class="flex flex-col items-center mb-lg text-center">
+        <div
+          class="w-16 h-16 bg-primary rounded-full flex items-center justify-center shadow-[0_4px_20px_rgba(233,30,99,0.15)] mb-md"
+        >
+          <span
+            class="material-symbols-outlined text-white text-[32px]"
+            style="font-variation-settings: &quot;FILL&quot; 1"
+            >bakery_dining</span
+          >
+        </div>
+        <h1
+          class="font-headline-lg text-headline-lg text-primary tracking-tight"
+        >
+          GB Delight
+        </h1>
+        <p class="font-body-md text-body-md text-on-surface-variant mt-xs">
+          Start your sweet journey today
+        </p>
+      </header>
+      <main
+        class="bg-surface-container-lowest rounded-[32px] p-md md:p-lg shadow-[0_4px_20px_rgba(233,30,99,0.08)] border border-outline-variant/30"
+      >
+        <h2 class="font-headline-md text-headline-md text-on-surface mb-md">
+          Create Account
+        </h2>
+
+        <!-- Flash Messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %} {% if
+        messages %} {% for category, message in messages %}
+        <div
+          class="mb-md p-3 rounded-lg border {% if category == 'danger' %}bg-red-50 border-red-200 text-red-700{% elif category == 'success' %}bg-green-50 border-green-200 text-green-700{% else %}bg-blue-50 border-blue-200 text-blue-700{% endif %} font-body-md"
+        >
+          {{ message }}
+        </div>
+        {% endfor %} {% endif %} {% endwith %}
+
+        <form class="space-y-md" action="{{ url_for('signup') }}" method="POST">
+          <div class="space-y-xs">
+            <label
+              class="font-label-md text-label-md text-on-surface-variant ml-xs"
+              for="full_name"
+              >Full Name</label
+            >
+            <div class="relative group">
+              <span
+                class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-outline group-focus-within:text-primary transition-colors"
+                >person</span
+              >
+              <input
+                class="w-full pl-12 pr-4 py-3 bg-surface-container-low border border-outline-variant/50 rounded-full font-body-md text-on-surface placeholder:text-outline focus:bg-white focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition-all"
+                id="full_name"
+                name="full_name"
+                placeholder="Full name"
+                type="text"
+                required
+              />
+            </div>
+          </div>
+          <div class="space-y-xs">
+            <label
+              class="font-label-md text-label-md text-on-surface-variant ml-xs"
+              for="email"
+              >Email</label
+            >
+            <div class="relative group">
+              <span
+                class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-outline group-focus-within:text-primary transition-colors"
+                >mail</span
+              >
+              <input
+                class="w-full pl-12 pr-4 py-3 bg-surface-container-low border border-outline-variant/50 rounded-full font-body-md text-on-surface placeholder:text-outline focus:bg-white focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition-all"
+                id="email"
+                name="email"
+                placeholder="hello@bakery.com"
+                type="email"
+                required
+              />
+            </div>
+          </div>
+          <div class="space-y-xs">
+            <label
+              class="font-label-md text-label-md text-on-surface-variant ml-xs"
+              for="password"
+              >Create Password</label
+            >
+            <div class="relative group">
+              <span
+                class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-outline group-focus-within:text-primary transition-colors"
+                >lock</span
+              >
+              <input
+                class="w-full pl-12 pr-12 py-3 bg-surface-container-low border border-outline-variant/50 rounded-full font-body-md text-on-surface placeholder:text-outline focus:bg-white focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition-all"
+                id="password"
+                name="password"
+                placeholder="••••••••"
+                type="password"
+                required
+              />
+              <button
+                class="absolute right-4 top-1/2 -translate-y-1/2 text-outline hover:text-primary transition-colors"
+                type="button"
+                onclick="togglePassword('password')"
+              >
+                <span class="material-symbols-outlined">visibility_off</span>
+              </button>
+            </div>
+          </div>
+          <div class="pt-base">
+            <button
+              class="w-full bg-primary text-white font-label-md text-label-md py-4 rounded-full shadow-[0_8px_24px_rgba(184,0,73,0.25)] hover:shadow-[0_4px_12px_rgba(184,0,73,0.15)] active:scale-[0.98] transition-all duration-200"
+              type="submit"
+            >
+              Join the Bakery
+            </button>
+          </div>
+        </form>
+        <div class="mt-md pt-md border-t border-outline-variant/30 text-center">
+          <p class="font-body-md text-body-md text-on-surface-variant">
+            Already part of the family?
+            <a
+              class="text-primary font-semibold hover:underline decoration-2 underline-offset-4 ml-1"
+              href="{{ url_for('login') }}"
+              >Back to Login</a
+            >
+          </p>
+        </div>
+      </main>
+      <!-- <footer class="mt-lg text-center space-y-xs">
+        <p class="font-caption text-caption text-outline">
+          By joining, you agree to our
+          <a class="underline" href="#">Terms</a> and
+          <a class="underline" href="#">Privacy Policy</a>
+        </p>
+        <div class="flex justify-center gap-md pt-md text-outline">
+          <span
+            class="material-symbols-outlined text-[20px] hover:text-primary cursor-pointer transition-colors"
+            >cake</span
+          >
+          <span
+            class="material-symbols-outlined text-[20px] hover:text-primary cursor-pointer transition-colors"
+            >cookie</span
+          >
+          <span
+            class="material-symbols-outlined text-[20px] hover:text-primary cursor-pointer transition-colors"
+            >icecream</span
+          >
+        </div>
+      </footer> -->
+    </div>
+
+    <script>
+      function togglePassword(fieldId) {
+        const field = document.getElementById(fieldId);
+        const icon = event.currentTarget.querySelector(
+          ".material-symbols-outlined",
+        );
+
+        if (field.type === "password") {
+          field.type = "text";
+          icon.textContent = "visibility";
+        } else {
+          field.type = "password";
+          icon.textContent = "visibility_off";
+        }
+      }
+    </script>
+  </body>
+</html>

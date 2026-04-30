@@ -1,0 +1,781 @@
+{
+  "cake_001": {
+    "cake_id": "cake_001",
+    "name": "Chocolate Birthday Delight",
+    "description": "Rich, moist chocolate cake with dark chocolate ganache - perfect for quick birthday celebrations",
+    "flavors": ["chocolate", "cocoa", "sweet", "rich"],
+    "primary_flavor": "chocolate",
+    "primary_occasion": "birthday",
+    "occasions": ["birthday", "celebration", "party", "gathering"],
+    "time_minutes": 25,
+    "difficulty": "easy",
+    "budget_usd": 18.99,
+    "servings": 12,
+    "dietary_info": {
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true
+    },
+    "ingredients": [
+      "all-purpose flour",
+      "cocoa powder",
+      "sugar",
+      "eggs",
+      "butter",
+      "milk",
+      "baking powder",
+      "salt",
+      "vanilla extract"
+    ],
+    "why_description": "Quick to make, moist texture, perfect for birthdays",
+    "design_inspiration_links": [
+      "https://www.pinterest.com/search/?q=easy+chocolate+birthday+cake",
+      "https://www.google.com/images?q=chocolate+birthday+cake"
+    ],
+    "price": 18.99,
+    "baking_steps": [
+      {
+        "step_number": 1,
+        "title": "Prepare Your Workspace",
+        "instruction": "Preheat oven to 350°F (175°C). Grease and flour two 9-inch round cake pans. Gather all ingredients and equipment."
+      },
+      {
+        "step_number": 2,
+        "title": "Mix Dry Ingredients",
+        "instruction": "In a large bowl, whisk together 2 cups all-purpose flour, 3/4 cup cocoa powder, 2 cups sugar, 1 tsp baking powder, and 1/2 tsp salt."
+      },
+      {
+        "step_number": 3,
+        "title": "Combine Wet Ingredients",
+        "instruction": "In another bowl, beat 4 eggs, then add 1 cup melted butter, 1 cup milk, and 2 tsp vanilla extract. Mix until smooth."
+      },
+      {
+        "step_number": 4,
+        "title": "Mix Batter",
+        "instruction": "Gradually add the wet ingredients to the dry ingredients, stirring until just combined. Do not overmix."
+      },
+      {
+        "step_number": 5,
+        "title": "Pour and Bake",
+        "instruction": "Divide batter evenly between prepared pans. Bake for 25-30 minutes until a toothpick inserted in the center comes out clean."
+      },
+      {
+        "step_number": 6,
+        "title": "Cool Cakes",
+        "instruction": "Allow cakes to cool in pans for 10 minutes, then turn out onto wire racks to cool completely (about 1 hour)."
+      },
+      {
+        "step_number": 7,
+        "title": "Make Ganache",
+        "instruction": "Heat 1 cup heavy cream until just simmering. Pour over 8 oz chopped dark chocolate. Let sit 2 minutes, then stir until smooth."
+      },
+      {
+        "step_number": 8,
+        "title": "Assemble and Frost",
+        "instruction": "Place first cake layer on plate. Spread ganache on top. Add second cake layer. Pour remaining ganache over top and sides."
+      }
+    ]
+  },
+  "cake_002": {
+    "cake_id": "cake_002",
+    "name": "Strawberry Bliss",
+    "description": "Fresh strawberry cake with cream cheese frosting - elegant and refreshing",
+    "flavors": ["strawberry", "fruity", "fresh", "tangy"],
+    "primary_flavor": "strawberry",
+    "primary_occasion": "celebration",
+    "occasions": ["wedding", "anniversary", "celebration", "spring event"],
+    "time_minutes": 45,
+    "difficulty": "medium",
+    "budget_usd": 22.99,
+    "servings": 10,
+    "dietary_info": {
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true
+    },
+    "ingredients": [
+      "all-purpose flour",
+      "fresh strawberries",
+      "sugar",
+      "eggs",
+      "butter",
+      "cream cheese",
+      "baking powder",
+      "vanilla extract",
+      "lemon juice"
+    ],
+    "why_description": "Elegant presentation, fresh fruit flavor, great for special occasions",
+    "design_inspiration_links": [
+      "https://www.pinterest.com/search/?q=strawberry+wedding+cake",
+      "https://www.google.com/images?q=strawberry+shortcake+elegant"
+    ],
+    "price": 22.99,
+    "baking_steps": [
+      {
+        "step_number": 1,
+        "title": "Prepare Equipment",
+        "instruction": "Preheat oven to 350°F (175°C). Grease two 8-inch round cake pans and line bottoms with parchment paper."
+      },
+      {
+        "step_number": 2,
+        "title": "Prepare Strawberries",
+        "instruction": "Wash 2 cups fresh strawberries and slice them. Set aside 1 cup for decoration and puree 1 cup for the batter."
+      },
+      {
+        "step_number": 3,
+        "title": "Mix Dry Ingredients",
+        "instruction": "Whisk together 2 cups flour, 2 tsp baking powder, 1/2 tsp salt, and 1.5 cups sugar in a large bowl."
+      },
+      {
+        "step_number": 4,
+        "title": "Combine Wet Ingredients",
+        "instruction": "Beat 3 eggs, add 1 cup softened butter, 3/4 cup strawberry puree, 2 tbsp lemon juice, and 2 tsp vanilla. Mix well."
+      },
+      {
+        "step_number": 5,
+        "title": "Create Batter",
+        "instruction": "Fold wet ingredients into dry ingredients until just combined. Gently fold in sliced strawberries."
+      },
+      {
+        "step_number": 6,
+        "title": "Bake Cakes",
+        "instruction": "Divide batter between pans. Bake for 35-40 minutes until toothpick inserted comes out clean. Cool 10 minutes."
+      },
+      {
+        "step_number": 7,
+        "title": "Make Cream Cheese Frosting",
+        "instruction": "Beat 12 oz softened cream cheese with 1/2 cup butter until fluffy. Add 3 cups powdered sugar and 1 tsp vanilla. Beat until smooth."
+      },
+      {
+        "step_number": 8,
+        "title": "Assemble Cake",
+        "instruction": "Place first cake layer on plate. Spread frosting on top. Add second layer. Frost top and sides. Decorate with fresh strawberries."
+      }
+    ]
+  },
+  "cake_003": {
+    "cake_id": "cake_003",
+    "name": "Vanilla Dream",
+    "description": "Classic vanilla cake with whipped cream - timeless and versatile",
+    "flavors": ["vanilla", "classic", "light", "mild"],
+    "primary_flavor": "vanilla",
+    "primary_occasion": "celebration",
+    "occasions": ["birthday", "anniversary", "wedding", "general celebration"],
+    "time_minutes": 35,
+    "difficulty": "easy",
+    "budget_usd": 19.99,
+    "servings": 12,
+    "dietary_info": {
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true
+    },
+    "ingredients": [
+      "all-purpose flour",
+      "sugar",
+      "eggs",
+      "butter",
+      "milk",
+      "vanilla extract",
+      "baking powder",
+      "salt"
+    ],
+    "why_description": "Versatile base, quick to make, pairs well with any frosting",
+    "design_inspiration_links": [
+      "https://www.pinterest.com/search/?q=classic+vanilla+cake",
+      "https://www.google.com/images?q=vanilla+birthday+cake"
+    ],
+    "price": 19.99,
+    "baking_steps": [
+      {
+        "step_number": 1,
+        "title": "Preheat and Prepare",
+        "instruction": "Preheat oven to 350°F (175°C). Grease two 9-inch round pans and dust with flour."
+      },
+      {
+        "step_number": 2,
+        "title": "Dry Ingredients",
+        "instruction": "Whisk together 2.5 cups flour, 3 tsp baking powder, and 0.5 tsp salt in a bowl."
+      },
+      {
+        "step_number": 3,
+        "title": "Cream Butter and Sugar",
+        "instruction": "Beat 1 cup softened butter with 2 cups sugar until light and fluffy (about 3 minutes)."
+      },
+      {
+        "step_number": 4,
+        "title": "Add Eggs",
+        "instruction": "Add 4 eggs one at a time to butter mixture, beating well after each addition."
+      },
+      {
+        "step_number": 5,
+        "title": "Add Flavorings",
+        "instruction": "Beat in 4 tsp vanilla extract and 1/2 cup milk alternately with dry ingredients, starting and ending with dry mix."
+      },
+      {
+        "step_number": 6,
+        "title": "Pour Batter",
+        "instruction": "Divide batter evenly between prepared pans. Smooth tops with spatula."
+      },
+      {
+        "step_number": 7,
+        "title": "Bake",
+        "instruction": "Bake for 30-35 minutes until a toothpick comes out clean. Cool in pans for 10 minutes."
+      },
+      {
+        "step_number": 8,
+        "title": "Cool and Frost",
+        "instruction": "Turn out onto racks and cool completely. Frost with whipped cream frosting or your favorite topping."
+      }
+    ]
+  },
+  "cake_004": {
+    "cake_id": "cake_004",
+    "name": "Vegan Chocolate Bliss",
+    "description": "Completely vegan chocolate cake - rich and indulgent without any animal products",
+    "flavors": ["chocolate", "cocoa", "sweet", "vegan"],
+    "primary_flavor": "chocolate",
+    "primary_occasion": "celebration",
+    "occasions": [
+      "birthday",
+      "vegan celebration",
+      "party",
+      "health-conscious event"
+    ],
+    "time_minutes": 40,
+    "difficulty": "medium",
+    "budget_usd": 24.99,
+    "servings": 10,
+    "dietary_info": {
+      "vegan": true,
+      "gluten_free": false,
+      "dairy_free": true,
+      "nut_free": false
+    },
+    "ingredients": [
+      "all-purpose flour",
+      "cocoa powder",
+      "sugar",
+      "vegetable oil",
+      "almond milk",
+      "baking powder",
+      "baking soda",
+      "vanilla extract",
+      "apple cider vinegar"
+    ],
+    "why_description": "Perfect for vegan guests, rich chocolate flavor, completely plant-based",
+    "design_inspiration_links": [
+      "https://www.pinterest.com/search/?q=vegan+chocolate+cake",
+      "https://www.google.com/images?q=vegan+chocolate+cake+recipe"
+    ],
+    "price": 24.99,
+    "baking_steps": [
+      {
+        "step_number": 1,
+        "title": "Prepare Pans",
+        "instruction": "Preheat oven to 350°F (175°C). Grease two 9-inch round pans and line with parchment paper."
+      },
+      {
+        "step_number": 2,
+        "title": "Mix Dry Ingredients",
+        "instruction": "In a large bowl, whisk 2 cups flour, 3/4 cup cocoa powder, 2 cups sugar, 2 tsp baking powder, 1 tsp baking soda, and 0.5 tsp salt."
+      },
+      {
+        "step_number": 3,
+        "title": "Prepare Wet Mix",
+        "instruction": "In another bowl, combine 2 cups almond milk with 2 tbsp apple cider vinegar. Let sit 2 minutes to curdle."
+      },
+      {
+        "step_number": 4,
+        "title": "Add Oil and Vanilla",
+        "instruction": "Stir 0.75 cup vegetable oil and 2 tsp vanilla extract into the milk mixture."
+      },
+      {
+        "step_number": 5,
+        "title": "Combine Ingredients",
+        "instruction": "Pour wet ingredients into dry ingredients and stir until just combined. Do not overmix."
+      },
+      {
+        "step_number": 6,
+        "title": "Bake Cakes",
+        "instruction": "Divide batter evenly between pans. Bake 35-40 minutes until toothpick comes out clean."
+      },
+      {
+        "step_number": 7,
+        "title": "Cool Cakes",
+        "instruction": "Cool in pans for 15 minutes, then turn out onto wire racks to cool completely."
+      },
+      {
+        "step_number": 8,
+        "title": "Frost",
+        "instruction": "Layer and frost with vegan chocolate frosting (vegan butter, cocoa, and powdered sugar)."
+      }
+    ]
+  },
+  "cake_005": {
+    "cake_id": "cake_005",
+    "name": "Gluten-Free Carrot Cake",
+    "description": "Moist carrot cake made with gluten-free flour and cream cheese frosting",
+    "flavors": ["carrot", "spiced", "nutty", "warm"],
+    "primary_flavor": "carrot",
+    "primary_occasion": "celebration",
+    "occasions": ["celebration", "health-conscious event", "spring gathering"],
+    "time_minutes": 50,
+    "difficulty": "medium",
+    "budget_usd": 26.99,
+    "servings": 12,
+    "dietary_info": {
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false,
+      "nut_free": false
+    },
+    "ingredients": [
+      "gluten-free flour",
+      "grated carrots",
+      "crushed pineapple",
+      "sugar",
+      "eggs",
+      "vegetable oil",
+      "cream cheese",
+      "walnuts",
+      "cinnamon",
+      "nutmeg"
+    ],
+    "why_description": "Nutritious, gluten-free friendly, warm spice flavors",
+    "design_inspiration_links": [
+      "https://www.pinterest.com/search/?q=gluten+free+carrot+cake",
+      "https://www.google.com/images?q=carrot+cake+design"
+    ],
+    "price": 26.99,
+    "baking_steps": [
+      {
+        "step_number": 1,
+        "title": "Prepare Equipment",
+        "instruction": "Preheat oven to 350°F (175°C). Grease two 9-inch round pans and line bottoms with parchment."
+      },
+      {
+        "step_number": 2,
+        "title": "Prepare Carrots",
+        "instruction": "Peel and grate 2 cups fresh carrots. Drain 1 can crushed pineapple well (reserve juice)."
+      },
+      {
+        "step_number": 3,
+        "title": "Mix Dry Ingredients",
+        "instruction": "Whisk 2 cups gluten-free flour, 2 tsp cinnamon, 1 tsp nutmeg, 2 tsp baking powder, 1 tsp baking soda, and 0.5 tsp salt."
+      },
+      {
+        "step_number": 4,
+        "title": "Combine Wet Ingredients",
+        "instruction": "Beat 4 eggs with 1.5 cups sugar, then mix in 0.75 cup oil, grated carrots, and drained pineapple."
+      },
+      {
+        "step_number": 5,
+        "title": "Mix Batter",
+        "instruction": "Fold wet ingredients into dry ingredients until combined. Stir in 1 cup chopped walnuts."
+      },
+      {
+        "step_number": 6,
+        "title": "Bake",
+        "instruction": "Pour into pans. Bake 40-45 minutes until toothpick inserted comes out clean."
+      },
+      {
+        "step_number": 7,
+        "title": "Cool",
+        "instruction": "Cool in pans for 15 minutes, then turn out onto wire racks to cool completely."
+      },
+      {
+        "step_number": 8,
+        "title": "Make and Apply Frosting",
+        "instruction": "Beat 12 oz cream cheese with 0.5 cup butter, 3 cups powdered sugar, and 1 tsp vanilla. Frost cooled cake."
+      }
+    ]
+  },
+  "cake_006": {
+    "cake_id": "cake_006",
+    "name": "Lemon Zest Sunshine",
+    "description": "Bright and tangy lemon cake with lemon buttercream - light and refreshing",
+    "flavors": ["lemon", "citrus", "bright", "tangy", "fresh"],
+    "primary_flavor": "lemon",
+    "primary_occasion": "celebration",
+    "occasions": ["spring event", "summer celebration", "tea party", "wedding"],
+    "time_minutes": 30,
+    "difficulty": "easy",
+    "budget_usd": 20.99,
+    "servings": 10,
+    "dietary_info": {
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true
+    },
+    "ingredients": [
+      "all-purpose flour",
+      "sugar",
+      "eggs",
+      "butter",
+      "fresh lemon juice",
+      "lemon zest",
+      "milk",
+      "baking powder",
+      "vanilla extract"
+    ],
+    "why_description": "Quick to make, bright flavor, perfect for spring/summer events",
+    "design_inspiration_links": [
+      "https://www.pinterest.com/search/?q=lemon+cake+design",
+      "https://www.google.com/images?q=lemon+zest+cake"
+    ],
+    "price": 20.99,
+    "baking_steps": [
+      {
+        "step_number": 1,
+        "title": "Prepare Pans",
+        "instruction": "Preheat oven to 350°F (175°C). Grease two 8-inch round pans and dust with flour."
+      },
+      {
+        "step_number": 2,
+        "title": "Prepare Lemon",
+        "instruction": "Zest 3 lemons to get 3 tbsp zest. Juice lemons to get 1 cup fresh lemon juice."
+      },
+      {
+        "step_number": 3,
+        "title": "Mix Dry Ingredients",
+        "instruction": "Whisk 2 cups flour, 3 tsp baking powder, and 0.5 tsp salt in a bowl."
+      },
+      {
+        "step_number": 4,
+        "title": "Cream Butter and Sugar",
+        "instruction": "Beat 0.75 cup softened butter with 1.5 cups sugar and 3 tbsp lemon zest until fluffy."
+      },
+      {
+        "step_number": 5,
+        "title": "Add Eggs and Flavorings",
+        "instruction": "Add 3 eggs one at a time. Alternate adding dry ingredients with 0.75 cup milk mixed with 1/3 cup lemon juice."
+      },
+      {
+        "step_number": 6,
+        "title": "Pour Batter",
+        "instruction": "Divide batter between prepared pans. Bake 25-30 minutes until toothpick comes out clean."
+      },
+      {
+        "step_number": 7,
+        "title": "Cool",
+        "instruction": "Cool in pans 10 minutes. Turn out onto wire racks to cool completely."
+      },
+      {
+        "step_number": 8,
+        "title": "Frost with Lemon Buttercream",
+        "instruction": "Beat 0.5 cup butter with 2 cups powdered sugar, 2 tbsp lemon juice, and 1 tbsp lemon zest. Frost layers and top."
+      }
+    ]
+  },
+  "cake_007": {
+    "cake_id": "cake_007",
+    "name": "Red Velvet Romance",
+    "description": "Elegant red velvet cake with cream cheese frosting - perfect for romantic occasions",
+    "flavors": ["red velvet", "cocoa", "vanilla", "elegant"],
+    "primary_flavor": "red velvet",
+    "primary_occasion": "wedding",
+    "occasions": [
+      "wedding",
+      "anniversary",
+      "valentine's day",
+      "romantic celebration"
+    ],
+    "time_minutes": 55,
+    "difficulty": "hard",
+    "budget_usd": 35.99,
+    "servings": 15,
+    "dietary_info": {
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true
+    },
+    "ingredients": [
+      "all-purpose flour",
+      "sugar",
+      "eggs",
+      "butter",
+      "cocoa powder",
+      "buttermilk",
+      "red food coloring",
+      "cream cheese",
+      "vanilla extract",
+      "baking soda"
+    ],
+    "why_description": "Elegant presentation, romantic color, perfect for special occasions",
+    "design_inspiration_links": [
+      "https://www.pinterest.com/search/?q=red+velvet+wedding+cake",
+      "https://www.google.com/images?q=red+velvet+cake+elegant"
+    ],
+    "price": 35.99,
+    "baking_steps": [
+      {
+        "step_number": 1,
+        "title": "Prepare Pans",
+        "instruction": "Preheat oven to 350°F (175°C). Grease three 9-inch round pans and line with parchment."
+      },
+      {
+        "step_number": 2,
+        "title": "Mix Dry Ingredients",
+        "instruction": "Whisk 3 cups flour, 1 tbsp cocoa powder, 0.5 tsp baking soda, and 0.5 tsp salt in a bowl."
+      },
+      {
+        "step_number": 3,
+        "title": "Cream Butter and Sugar",
+        "instruction": "Beat 1 cup softened butter with 2 cups sugar until light and fluffy (3 minutes)."
+      },
+      {
+        "step_number": 4,
+        "title": "Add Eggs and Coloring",
+        "instruction": "Add 2 eggs one at a time. Mix in 2 tbsp red food coloring and 2 tsp vanilla extract."
+      },
+      {
+        "step_number": 5,
+        "title": "Alternate Wet and Dry",
+        "instruction": "Alternate adding dry ingredients with 1 cup buttermilk, starting and ending with dry ingredients."
+      },
+      {
+        "step_number": 6,
+        "title": "Bake Layers",
+        "instruction": "Divide evenly among pans. Bake 25-30 minutes until toothpick comes out clean."
+      },
+      {
+        "step_number": 7,
+        "title": "Cool Cakes",
+        "instruction": "Cool in pans 15 minutes, then turn out onto wire racks to cool completely."
+      },
+      {
+        "step_number": 8,
+        "title": "Make Cream Cheese Frosting",
+        "instruction": "Beat 1 lb cream cheese with 1 cup butter until smooth. Add 4 cups powdered sugar and 2 tsp vanilla. Beat until fluffy."
+      },
+      {
+        "step_number": 9,
+        "title": "Assemble and Decorate",
+        "instruction": "Layer three cakes with frosting between each. Frost entire cake. Chill 2 hours before serving."
+      }
+    ]
+  },
+  "cake_008": {
+    "cake_id": "cake_008",
+    "name": "5-Minute Mug Cake",
+    "description": "Ultra-quick chocolate cake baked in a mug - ready in minutes",
+    "flavors": ["chocolate", "quick", "convenient", "cocoa"],
+    "primary_flavor": "chocolate",
+    "primary_occasion": "quick snack",
+    "occasions": ["quick dessert", "emergency treat", "personal serving"],
+    "time_minutes": 5,
+    "difficulty": "very easy",
+    "budget_usd": 2.99,
+    "servings": 1,
+    "dietary_info": {
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": true
+    },
+    "ingredients": [
+      "flour",
+      "sugar",
+      "cocoa powder",
+      "egg",
+      "milk",
+      "oil",
+      "baking powder"
+    ],
+    "why_description": "Fastest option available, minimal ingredients, perfect for sudden cravings",
+    "design_inspiration_links": [],
+    "price": 2.99,
+    "baking_steps": [
+      {
+        "step_number": 1,
+        "title": "Gather Mug and Ingredients",
+        "instruction": "Get a microwave-safe mug (8-12 oz). Gather: 1/4 cup flour, 1/4 cup sugar, 2 tbsp cocoa powder, 1 egg, 3 tbsp milk, 2 tbsp oil, 1/4 tsp baking powder."
+      },
+      {
+        "step_number": 2,
+        "title": "Mix Dry Ingredients",
+        "instruction": "In the mug, combine flour, sugar, cocoa powder, and baking powder. Stir well to break up any lumps."
+      },
+      {
+        "step_number": 3,
+        "title": "Add Wet Ingredients",
+        "instruction": "Add egg, milk, and oil to the mug. Stir until smooth and well combined. No lumps!"
+      },
+      {
+        "step_number": 4,
+        "title": "Microwave",
+        "instruction": "Microwave on high for 60-90 seconds (1-1.5 minutes). Mug will be hot - use caution!"
+      },
+      {
+        "step_number": 5,
+        "title": "Cool Slightly",
+        "instruction": "Let mug cool for 1-2 minutes before eating. You can add whipped cream, ice cream, or sprinkles on top!"
+      }
+    ]
+  },
+  "cake_009": {
+    "cake_id": "cake_009",
+    "name": "Luxury Tiered Wedding Cake",
+    "description": "Multi-tiered white chocolate and raspberry wedding cake - show-stopping centerpiece",
+    "flavors": ["white chocolate", "raspberry", "elegant", "luxurious"],
+    "primary_flavor": "white chocolate",
+    "primary_occasion": "wedding",
+    "occasions": ["wedding", "milestone celebration", "gala event"],
+    "time_minutes": 180,
+    "difficulty": "very hard",
+    "budget_usd": 150.0,
+    "servings": 50,
+    "dietary_info": {
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": false,
+      "nut_free": false
+    },
+    "ingredients": [
+      "premium white chocolate",
+      "fresh raspberries",
+      "all-purpose flour",
+      "eggs",
+      "butter",
+      "fondant",
+      "gold leaf",
+      "edible flowers"
+    ],
+    "why_description": "Grand presentation, perfect for weddings, requires advanced baking skills",
+    "design_inspiration_links": [
+      "https://www.pinterest.com/search/?q=luxury+wedding+cake+tiered",
+      "https://www.google.com/images?q=white+chocolate+raspberry+wedding+cake"
+    ],
+    "price": 150.0,
+    "baking_steps": [
+      {
+        "step_number": 1,
+        "title": "Prepare Pans",
+        "instruction": "Preheat oven to 325°F (165°C). Grease 6-inch, 9-inch, and 12-inch round pans. Line bottoms with parchment paper."
+      },
+      {
+        "step_number": 2,
+        "title": "Make White Chocolate Cake Batter",
+        "instruction": "Melt 12 oz premium white chocolate. Cream 2 cups butter with 3 cups sugar. Add 8 eggs, then 4 cups flour, alternating with white chocolate. Make 3 batches for different sizes."
+      },
+      {
+        "step_number": 3,
+        "title": "Bake Base Layer",
+        "instruction": "Bake 12-inch pan for 45 minutes. Let cool in pan for 20 minutes, then turn out onto rack."
+      },
+      {
+        "step_number": 4,
+        "title": "Bake Middle Layer",
+        "instruction": "Bake 9-inch pan for 35 minutes. Cool similarly in pan then on rack."
+      },
+      {
+        "step_number": 5,
+        "title": "Bake Top Layer",
+        "instruction": "Bake 6-inch pan for 25 minutes. Cool in pan then on rack."
+      },
+      {
+        "step_number": 6,
+        "title": "Level and Fill Layers",
+        "instruction": "Level each cake with a serrated knife. Layer white chocolate frosting between cake sections. Refrigerate 30 minutes."
+      },
+      {
+        "step_number": 7,
+        "title": "Apply Fondant",
+        "instruction": "Roll out fondant for each tier. Cover each cake layer. Smooth out air bubbles. Refrigerate 2 hours."
+      },
+      {
+        "step_number": 8,
+        "title": "Stack Tiers",
+        "instruction": "Use cake dowels to support upper tiers. Stack carefully from bottom: 12-inch, 9-inch, then 6-inch."
+      },
+      {
+        "step_number": 9,
+        "title": "Decorate",
+        "instruction": "Arrange fresh raspberries between tiers. Add edible flowers and gold leaf accents. Keep refrigerated until serving."
+      }
+    ]
+  },
+  "cake_010": {
+    "cake_id": "cake_010",
+    "name": "Dairy-Free Coconut Paradise",
+    "description": "Tropical coconut cake with dairy-free frosting - perfect for lactose-intolerant guests",
+    "flavors": ["coconut", "tropical", "fresh", "light"],
+    "primary_flavor": "coconut",
+    "primary_occasion": "celebration",
+    "occasions": ["tropical party", "summer celebration", "dairy-free event"],
+    "time_minutes": 40,
+    "difficulty": "medium",
+    "budget_usd": 23.99,
+    "servings": 12,
+    "dietary_info": {
+      "vegan": false,
+      "gluten_free": false,
+      "dairy_free": true,
+      "nut_free": false
+    },
+    "ingredients": [
+      "all-purpose flour",
+      "shredded coconut",
+      "sugar",
+      "eggs",
+      "coconut oil",
+      "coconut milk",
+      "baking powder",
+      "vanilla extract"
+    ],
+    "why_description": "Tropical flavor, dairy-free friendly, creamy texture without dairy",
+    "design_inspiration_links": [
+      "https://www.pinterest.com/search/?q=coconut+cake+tropical",
+      "https://www.google.com/images?q=coconut+beach+cake"
+    ],
+    "price": 23.99,
+    "baking_steps": [
+      {
+        "step_number": 1,
+        "title": "Prepare Pans",
+        "instruction": "Preheat oven to 350°F (175°C). Grease two 9-inch round pans and line with parchment paper."
+      },
+      {
+        "step_number": 2,
+        "title": "Mix Dry Ingredients",
+        "instruction": "Whisk 2.5 cups flour, 2 cups shredded coconut, 2 tsp baking powder, and 0.5 tsp salt in a large bowl."
+      },
+      {
+        "step_number": 3,
+        "title": "Combine Wet Ingredients",
+        "instruction": "Beat 4 eggs with 1.75 cups sugar until light. Add 0.75 cup melted coconut oil and 1 tsp vanilla extract."
+      },
+      {
+        "step_number": 4,
+        "title": "Combine Milk Mixture",
+        "instruction": "In a small bowl, combine 1 cup coconut milk with 0.25 cup water (it will be thick, so this thins it)."
+      },
+      {
+        "step_number": 5,
+        "title": "Make Batter",
+        "instruction": "Add wet ingredients to dry ingredients. Alternate with coconut milk mixture, starting and ending with dry ingredients. Fold in 1 cup toasted coconut."
+      },
+      {
+        "step_number": 6,
+        "title": "Bake",
+        "instruction": "Divide batter between pans. Bake 35-40 minutes until toothpick inserted comes out clean."
+      },
+      {
+        "step_number": 7,
+        "title": "Cool",
+        "instruction": "Cool in pans 15 minutes. Turn out onto wire racks and cool completely."
+      },
+      {
+        "step_number": 8,
+        "title": "Make Dairy-Free Frosting",
+        "instruction": "Beat 0.5 cup coconut oil with 2 cups powdered sugar, 0.25 cup coconut milk, and 1 tsp vanilla until fluffy. Frost cake and top with toasted coconut."
+      }
+    ]
+  }
+}

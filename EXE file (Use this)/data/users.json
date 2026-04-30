@@ -1,0 +1,766 @@
+{
+  "c3139c18-2c51-4960-8654-1e6b2abb3f70": {
+    "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+    "username": "uki",
+    "email": "uki@gmail.com",
+    "full_name": "uki",
+    "password_hash": "173cf483ef9844bbda389f8f11a0205993bfd09cbd5bbd2c0b130a2c64250bbd",
+    "password_salt": "a70f917219db3382f2ca6968f9b1bf87",
+    "created_at": "2026-04-22T12:37:22.836134",
+    "last_login": "2026-04-30T16:04:23.370703",
+    "preferences": {
+      "preferred_cakes": [],
+      "dietary_restrictions": [],
+      "favorite_flavors": []
+    },
+    "chat_sessions": {
+      "9ba4612b-a887-4f0d-8642-c358fb7db579": {
+        "chat_id": "9ba4612b-a887-4f0d-8642-c358fb7db579",
+        "title": "Chat - 2026-04-30 11:02",
+        "created_at": "2026-04-30T11:02:09.429373",
+        "updated_at": "2026-04-30T11:03:48.065814",
+        "messages": [
+          {
+            "sender": "user",
+            "message": "hi",
+            "timestamp": "2026-04-30T11:03:48.063763"
+          },
+          {
+            "sender": "bot",
+            "message": "Hi uki! I'm your cake assistant. Ask me for cake ideas, recipes, or baking help.",
+            "timestamp": "2026-04-30T11:03:48.065808"
+          }
+        ]
+      },
+      "04e9df00-5b6e-42c7-ab2a-fd089cbb6838": {
+        "chat_id": "04e9df00-5b6e-42c7-ab2a-fd089cbb6838",
+        "title": "hi",
+        "created_at": "2026-04-30T11:03:40.152119",
+        "updated_at": "2026-04-30T11:04:24.363403",
+        "messages": [
+          {
+            "sender": "user",
+            "message": "hi",
+            "timestamp": "2026-04-30T11:03:40.165034"
+          },
+          {
+            "sender": "bot",
+            "message": "Hi uki! I'm your cake assistant. Ask me for cake ideas, recipes, or baking help.",
+            "timestamp": "2026-04-30T11:03:40.166948"
+          },
+          {
+            "sender": "user",
+            "message": "hello",
+            "timestamp": "2026-04-30T11:04:21.074148"
+          },
+          {
+            "sender": "bot",
+            "message": "Hi uki! I'm your cake assistant. Ask me for cake ideas, recipes, or baking help.",
+            "timestamp": "2026-04-30T11:04:21.076554"
+          },
+          {
+            "sender": "user",
+            "message": "thanks",
+            "timestamp": "2026-04-30T11:04:24.361235"
+          },
+          {
+            "sender": "bot",
+            "message": "You're welcome, uki! If you want, I can suggest a cake right now.",
+            "timestamp": "2026-04-30T11:04:24.363397"
+          }
+        ]
+      },
+      "d26abf4a-18de-49e9-8d3e-23b3612256b9": {
+        "chat_id": "d26abf4a-18de-49e9-8d3e-23b3612256b9",
+        "title": "Recommend a delicious cake for a birthday party",
+        "created_at": "2026-04-30T11:04:48.124417",
+        "updated_at": "2026-04-30T11:04:48.144521",
+        "messages": [
+          {
+            "sender": "user",
+            "message": "Recommend a delicious cake for a birthday party",
+            "timestamp": "2026-04-30T11:04:48.141495"
+          },
+          {
+            "sender": "bot",
+            "message": "🎭 **Detected Mood:** Celebration\n\n🎂 **Top 3 Recommendations**\n\n**Option 1:**\n**🎂 Strawberry Bliss**\n_Fresh strawberry cake with cream cheese frosting - elegant and refreshing_\n\n⏱️ **45 min** • 📊 **Medium** • 🍽️ **Serves 10**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• fresh strawberries\n• sugar\n• eggs\n• butter\n• cream cheese\n• baking powder\n• vanilla extract\n• lemon juice\n\n💡 **Why This Match:**\nElegant presentation, fresh fruit flavor, great for special occasions\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=strawberry+wedding+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=strawberry+shortcake+elegant)\n\n💰 **Budget:** $22.99\n---\n\n**Option 2:**\n**🎂 Chocolate Birthday Delight**\n_Rich, moist chocolate cake with dark chocolate ganache - perfect for quick birthday celebrations_\n\n⏱️ **25 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• eggs\n• butter\n• milk\n• baking powder\n• salt\n• vanilla extract\n\n💡 **Why This Match:**\nQuick to make, moist texture, perfect for birthdays\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=easy+chocolate+birthday+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=chocolate+birthday+cake)\n\n💰 **Budget:** $18.99\n---\n\n**Option 3:**\n**🎂 Vanilla Dream**\n_Classic vanilla cake with whipped cream - timeless and versatile_\n\n⏱️ **35 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• sugar\n• eggs\n• butter\n• milk\n• vanilla extract\n• baking powder\n• salt\n\n💡 **Why This Match:**\nVersatile base, quick to make, pairs well with any frosting\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=classic+vanilla+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=vanilla+birthday+cake)\n\n💰 **Budget:** $19.99\n---\n\n💡 **Quick Actions**\n• Reply with `start baking with [cake name]` for guided steps\n• Use 👍 or 👎 on each suggestion so I can learn your taste",
+            "timestamp": "2026-04-30T11:04:48.144512"
+          }
+        ]
+      },
+      "195ad86d-86f3-4339-badc-59349f1d0219": {
+        "chat_id": "195ad86d-86f3-4339-badc-59349f1d0219",
+        "title": "Can you help me fix my cake recipe? It came out to...",
+        "created_at": "2026-04-30T11:05:16.462227",
+        "updated_at": "2026-04-30T11:05:16.483257",
+        "messages": [
+          {
+            "sender": "user",
+            "message": "Can you help me fix my cake recipe? It came out too dry",
+            "timestamp": "2026-04-30T11:05:16.479647"
+          },
+          {
+            "sender": "bot",
+            "message": "🏜️ **Dry Cake Detected**\n\n⚠️ **Possible Causes:**\n• Overbaking - the cake was left in the oven too long\n• Too much flour - measuring flour by scooping instead of weighing\n• Not enough liquid - insufficient milk, oil, or eggs\n• High altitude baking - requires recipe adjustments\n• Inadequate cooling - storing while still warm causes moisture loss\n\n🛠️ **Step-by-Step Fixes:**\n\n**Step 1: Check your baking time**\nUse a toothpick inserted in the center - it should have a few moist crumbs, not be completely dry. Reduce baking time by 5-10 minutes next time.\n\n**Step 2: Measure flour correctly**\nUse a kitchen scale (best) or spoon and level method. Don't scoop directly into the bag. Fluffy flour = air = lighter cake.\n\n**Step 3: Add more liquid immediately**\nBrush the cake with simple syrup (1:1 sugar and water), milk, or apple juice. This restores moisture while still warm.\n\n**Step 4: Cool properly**\nLet cake cool completely on a wire rack before wrapping. Cover with plastic wrap or place in an airtight container to retain moisture.\n\n**Step 5: Add moisture with frosting**\nUse a rich frosting or filling (buttercream, cream cheese frosting) to add moisture and flavor.\n\n💡 **Next Time Tips:**\n• Add one extra egg yolk for more moisture\n• Replace half the milk with sour cream or yogurt\n• Add pudding mix to the batter for extra moisture\n• Use oil instead of butter (oil distributes moisture better)\n• Add applesauce or mashed banana for natural moisture\n\n---\n📝 Remember: Baking is a science, but it's also forgiving! These tips will help you get better results.\n",
+            "timestamp": "2026-04-30T11:05:16.483248"
+          }
+        ]
+      },
+      "7db585aa-ab3c-49ac-8af1-ebd9caaf5fe1": {
+        "chat_id": "7db585aa-ab3c-49ac-8af1-ebd9caaf5fe1",
+        "title": "What are some quick and easy cake ideas for beginn...",
+        "created_at": "2026-04-30T11:05:28.320205",
+        "updated_at": "2026-04-30T11:05:28.341417",
+        "messages": [
+          {
+            "sender": "user",
+            "message": "What are some quick and easy cake ideas for beginners?",
+            "timestamp": "2026-04-30T11:05:28.338434"
+          },
+          {
+            "sender": "bot",
+            "message": "🎉 Great! You need something quick!\n\n🎂 **Top 3 Recommendations**\n\n**Option 1:**\n**🎂 5-Minute Mug Cake**\n_Ultra-quick chocolate cake baked in a mug - ready in minutes_\n\n⏱️ **5 min** • 📊 **Very easy** • 🍽️ **Serves 1**\n\n🧾 **Ingredients:**\n• flour\n• sugar\n• cocoa powder\n• egg\n• milk\n• oil\n• baking powder\n\n💡 **Why This Match:**\nFastest option available, minimal ingredients, perfect for sudden cravings\n\n✓ Good match overall\n\n💰 **Budget:** $2.99\n---\n\n**Option 2:**\n**🎂 Chocolate Birthday Delight**\n_Rich, moist chocolate cake with dark chocolate ganache - perfect for quick birthday celebrations_\n\n⏱️ **25 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• eggs\n• butter\n• milk\n• baking powder\n• salt\n• vanilla extract\n\n💡 **Why This Match:**\nQuick to make, moist texture, perfect for birthdays\n\n✓ Matches some of your preferences\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=easy+chocolate+birthday+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=chocolate+birthday+cake)\n\n💰 **Budget:** $18.99\n---\n\n**Option 3:**\n**🎂 Vanilla Dream**\n_Classic vanilla cake with whipped cream - timeless and versatile_\n\n⏱️ **35 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• sugar\n• eggs\n• butter\n• milk\n• vanilla extract\n• baking powder\n• salt\n\n💡 **Why This Match:**\nVersatile base, quick to make, pairs well with any frosting\n\n✓ Matches some of your preferences\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=classic+vanilla+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=vanilla+birthday+cake)\n\n💰 **Budget:** $19.99\n---\n\n💡 **Quick Actions**\n• Reply with `start baking with [cake name]` for guided steps\n• Use 👍 or 👎 on each suggestion so I can learn your taste",
+            "timestamp": "2026-04-30T11:05:28.341410"
+          }
+        ]
+      },
+      "02fb9217-5e09-4205-b6f5-b0cee39c4e40": {
+        "chat_id": "02fb9217-5e09-4205-b6f5-b0cee39c4e40",
+        "title": "Surprise me with a unique cake idea!",
+        "created_at": "2026-04-30T11:05:37.499891",
+        "updated_at": "2026-04-30T11:05:37.515290",
+        "messages": [
+          {
+            "sender": "user",
+            "message": "Surprise me with a unique cake idea!",
+            "timestamp": "2026-04-30T11:05:37.510833"
+          },
+          {
+            "sender": "bot",
+            "message": "About \"Surprise me with a unique cake idea!\" - I haven't encountered this before.\n\n❓ That's a new one for me!\n📚 Can you help me learn the right answer?",
+            "timestamp": "2026-04-30T11:05:37.515281"
+          }
+        ]
+      },
+      "c2f069aa-f7fd-4967-b97a-d059373d729c": {
+        "chat_id": "c2f069aa-f7fd-4967-b97a-d059373d729c",
+        "title": "Surprise me with a unique cake idea!",
+        "created_at": "2026-04-30T11:10:26.007202",
+        "updated_at": "2026-04-30T11:10:26.044823",
+        "messages": [
+          {
+            "sender": "user",
+            "message": "Surprise me with a unique cake idea!",
+            "timestamp": "2026-04-30T11:10:26.040294"
+          },
+          {
+            "sender": "bot",
+            "message": "🎂 **Top 3 Recommendations**\n\n**Option 1:**\n**🎂 Chocolate Birthday Delight**\n_Rich, moist chocolate cake with dark chocolate ganache - perfect for quick birthday celebrations_\n\n⏱️ **25 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• eggs\n• butter\n• milk\n• baking powder\n• salt\n• vanilla extract\n\n💡 **Why This Match:**\nQuick to make, moist texture, perfect for birthdays\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=easy+chocolate+birthday+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=chocolate+birthday+cake)\n\n💰 **Budget:** $18.99\n---\n\n**Option 2:**\n**🎂 Strawberry Bliss**\n_Fresh strawberry cake with cream cheese frosting - elegant and refreshing_\n\n⏱️ **45 min** • 📊 **Medium** • 🍽️ **Serves 10**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• fresh strawberries\n• sugar\n• eggs\n• butter\n• cream cheese\n• baking powder\n• vanilla extract\n• lemon juice\n\n💡 **Why This Match:**\nElegant presentation, fresh fruit flavor, great for special occasions\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=strawberry+wedding+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=strawberry+shortcake+elegant)\n\n💰 **Budget:** $22.99\n---\n\n**Option 3:**\n**🎂 Vanilla Dream**\n_Classic vanilla cake with whipped cream - timeless and versatile_\n\n⏱️ **35 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• sugar\n• eggs\n• butter\n• milk\n• vanilla extract\n• baking powder\n• salt\n\n💡 **Why This Match:**\nVersatile base, quick to make, pairs well with any frosting\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=classic+vanilla+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=vanilla+birthday+cake)\n\n💰 **Budget:** $19.99\n---\n\n💡 **Quick Actions**\n• Reply with `start baking with [cake name]` for guided steps\n• Use 👍 or 👎 on each suggestion so I can learn your taste",
+            "timestamp": "2026-04-30T11:10:26.044815"
+          }
+        ]
+      },
+      "fcd438b4-22d1-4453-b126-f6238aa60f22": {
+        "chat_id": "fcd438b4-22d1-4453-b126-f6238aa60f22",
+        "title": "hi",
+        "created_at": "2026-04-30T12:11:17.542515",
+        "updated_at": "2026-04-30T12:12:53.248354",
+        "messages": [
+          {
+            "sender": "user",
+            "message": "hi",
+            "timestamp": "2026-04-30T12:11:17.559505"
+          },
+          {
+            "sender": "bot",
+            "message": "Hi uki! I'm your cake assistant. Ask me for cake ideas, recipes, or baking help.",
+            "timestamp": "2026-04-30T12:11:17.564503"
+          },
+          {
+            "sender": "user",
+            "message": "Recommend me a chocolate cake",
+            "timestamp": "2026-04-30T12:12:53.244367"
+          },
+          {
+            "sender": "bot",
+            "message": "🎂 **Top 3 Recommendations**\n\n**Option 1:**\n**🎂 Chocolate Birthday Delight**\n_Rich, moist chocolate cake with dark chocolate ganache - perfect for quick birthday celebrations_\n\n⏱️ **25 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• eggs\n• butter\n• milk\n• baking powder\n• salt\n• vanilla extract\n\n💡 **Why This Match:**\nQuick to make, moist texture, perfect for birthdays\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=easy+chocolate+birthday+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=chocolate+birthday+cake)\n\n💰 **Budget:** $18.99\n---\n\n**Option 2:**\n**🎂 Vegan Chocolate Bliss**\n_Completely vegan chocolate cake - rich and indulgent without any animal products_\n\n⏱️ **40 min** • 📊 **Medium** • 🍽️ **Serves 10**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• vegetable oil\n• almond milk\n• baking powder\n• baking soda\n• vanilla extract\n• apple cider vinegar\n\n💡 **Why This Match:**\nPerfect for vegan guests, rich chocolate flavor, completely plant-based\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=vegan+chocolate+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=vegan+chocolate+cake+recipe)\n\n💰 **Budget:** $24.99\n---\n\n**Option 3:**\n**🎂 5-Minute Mug Cake**\n_Ultra-quick chocolate cake baked in a mug - ready in minutes_\n\n⏱️ **5 min** • 📊 **Very easy** • 🍽️ **Serves 1**\n\n🧾 **Ingredients:**\n• flour\n• sugar\n• cocoa powder\n• egg\n• milk\n• oil\n• baking powder\n\n💡 **Why This Match:**\nFastest option available, minimal ingredients, perfect for sudden cravings\n\n✓ Good match overall\n\n💰 **Budget:** $2.99\n---\n\n💡 **Quick Actions**\n• Reply with `start baking with [cake name]` for guided steps\n• Use 👍 or 👎 on each suggestion so I can learn your taste",
+            "timestamp": "2026-04-30T12:12:53.248354"
+          }
+        ]
+      },
+      "acf3a9d0-1cee-4f33-acd0-61dcba2d820a": {
+        "chat_id": "acf3a9d0-1cee-4f33-acd0-61dcba2d820a",
+        "title": "hi",
+        "created_at": "2026-04-30T16:04:26.005313",
+        "updated_at": "2026-04-30T16:04:59.578730",
+        "messages": [
+          {
+            "sender": "user",
+            "message": "hi",
+            "timestamp": "2026-04-30T16:04:26.027476"
+          },
+          {
+            "sender": "bot",
+            "message": "Hi uki! I'm your cake assistant. Ask me for cake ideas, recipes, or baking help.",
+            "timestamp": "2026-04-30T16:04:26.031612"
+          },
+          {
+            "sender": "user",
+            "message": "recommend me a chocolate cake",
+            "timestamp": "2026-04-30T16:04:59.573411"
+          },
+          {
+            "sender": "bot",
+            "message": "🎂 **Top 3 Recommendations**\n\n**Option 1:**\n**🎂 Chocolate Birthday Delight**\n_Rich, moist chocolate cake with dark chocolate ganache - perfect for quick birthday celebrations_\n\n⏱️ **25 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• eggs\n• butter\n• milk\n• baking powder\n• salt\n• vanilla extract\n\n💡 **Why This Match:**\nQuick to make, moist texture, perfect for birthdays\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=easy+chocolate+birthday+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=chocolate+birthday+cake)\n\n💰 **Budget:** $18.99\n---\n\n**Option 2:**\n**🎂 Vegan Chocolate Bliss**\n_Completely vegan chocolate cake - rich and indulgent without any animal products_\n\n⏱️ **40 min** • 📊 **Medium** • 🍽️ **Serves 10**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• vegetable oil\n• almond milk\n• baking powder\n• baking soda\n• vanilla extract\n• apple cider vinegar\n\n💡 **Why This Match:**\nPerfect for vegan guests, rich chocolate flavor, completely plant-based\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=vegan+chocolate+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=vegan+chocolate+cake+recipe)\n\n💰 **Budget:** $24.99\n---\n\n**Option 3:**\n**🎂 5-Minute Mug Cake**\n_Ultra-quick chocolate cake baked in a mug - ready in minutes_\n\n⏱️ **5 min** • 📊 **Very easy** • 🍽️ **Serves 1**\n\n🧾 **Ingredients:**\n• flour\n• sugar\n• cocoa powder\n• egg\n• milk\n• oil\n• baking powder\n\n💡 **Why This Match:**\nFastest option available, minimal ingredients, perfect for sudden cravings\n\n✓ Good match overall\n\n💰 **Budget:** $2.99\n---\n\n💡 **Quick Actions**\n• Reply with `start baking with [cake name]` for guided steps\n• Use 👍 or 👎 on each suggestion so I can learn your taste",
+            "timestamp": "2026-04-30T16:04:59.578730"
+          }
+        ]
+      }
+    },
+    "current_chat_id": "acf3a9d0-1cee-4f33-acd0-61dcba2d820a",
+    "_migrated_chat_sessions": true,
+    "history_events": [
+      {
+        "type": "user_message",
+        "chat_id": "04e9df00-5b6e-42c7-ab2a-fd089cbb6838",
+        "timestamp": "2026-04-30T11:03:40.170488",
+        "data": {
+          "message": "hi"
+        }
+      },
+      {
+        "type": "bot_message",
+        "chat_id": "04e9df00-5b6e-42c7-ab2a-fd089cbb6838",
+        "timestamp": "2026-04-30T11:03:40.172726",
+        "data": {
+          "message": "Hi uki! I'm your cake assistant. Ask me for cake ideas, recipes, or baking help."
+        }
+      },
+      {
+        "type": "user_message",
+        "chat_id": "9ba4612b-a887-4f0d-8642-c358fb7db579",
+        "timestamp": "2026-04-30T11:03:48.068713",
+        "data": {
+          "message": "hi"
+        }
+      },
+      {
+        "type": "bot_message",
+        "chat_id": "9ba4612b-a887-4f0d-8642-c358fb7db579",
+        "timestamp": "2026-04-30T11:03:48.075182",
+        "data": {
+          "message": "Hi uki! I'm your cake assistant. Ask me for cake ideas, recipes, or baking help."
+        }
+      },
+      {
+        "type": "user_message",
+        "chat_id": "04e9df00-5b6e-42c7-ab2a-fd089cbb6838",
+        "timestamp": "2026-04-30T11:04:21.078542",
+        "data": {
+          "message": "hello"
+        }
+      },
+      {
+        "type": "bot_message",
+        "chat_id": "04e9df00-5b6e-42c7-ab2a-fd089cbb6838",
+        "timestamp": "2026-04-30T11:04:21.080520",
+        "data": {
+          "message": "Hi uki! I'm your cake assistant. Ask me for cake ideas, recipes, or baking help."
+        }
+      },
+      {
+        "type": "user_message",
+        "chat_id": "04e9df00-5b6e-42c7-ab2a-fd089cbb6838",
+        "timestamp": "2026-04-30T11:04:24.365394",
+        "data": {
+          "message": "thanks"
+        }
+      },
+      {
+        "type": "bot_message",
+        "chat_id": "04e9df00-5b6e-42c7-ab2a-fd089cbb6838",
+        "timestamp": "2026-04-30T11:04:24.368861",
+        "data": {
+          "message": "You're welcome, uki! If you want, I can suggest a cake right now."
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "d26abf4a-18de-49e9-8d3e-23b3612256b9",
+        "timestamp": "2026-04-30T11:04:48.130115",
+        "data": {
+          "cake_id": "cake_002",
+          "cake_name": "Strawberry Bliss",
+          "score": 0.625,
+          "mood": "celebration"
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "d26abf4a-18de-49e9-8d3e-23b3612256b9",
+        "timestamp": "2026-04-30T11:04:48.133424",
+        "data": {
+          "cake_id": "cake_001",
+          "cake_name": "Chocolate Birthday Delight",
+          "score": 0.52,
+          "mood": "celebration"
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "d26abf4a-18de-49e9-8d3e-23b3612256b9",
+        "timestamp": "2026-04-30T11:04:48.138578",
+        "data": {
+          "cake_id": "cake_003",
+          "cake_name": "Vanilla Dream",
+          "score": 0.52,
+          "mood": "celebration"
+        }
+      },
+      {
+        "type": "user_message",
+        "chat_id": "d26abf4a-18de-49e9-8d3e-23b3612256b9",
+        "timestamp": "2026-04-30T11:04:48.147552",
+        "data": {
+          "message": "Recommend a delicious cake for a birthday party"
+        }
+      },
+      {
+        "type": "bot_message",
+        "chat_id": "d26abf4a-18de-49e9-8d3e-23b3612256b9",
+        "timestamp": "2026-04-30T11:04:48.151034",
+        "data": {
+          "message": "🎭 **Detected Mood:** Celebration\n\n🎂 **Top 3 Recommendations**\n\n**Option 1:**\n**🎂 Strawberry Bliss**\n_Fresh strawberry cake with cream cheese frosting - elegant and refreshing_\n\n⏱️ **45 min** • 📊 **Medium** • 🍽️ **Serves 10**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• fresh strawberries\n• sugar\n• eggs\n• butter\n• cream cheese\n• baking powder\n• vanilla extract\n• lemon juice\n\n💡 **Why This Match:**\nElegant presentation, fresh fruit flavor, great for special occasions\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=strawberry+wedding+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=strawberry+shortcake+elegant)\n\n💰 **Budget:** $22.99\n---\n\n**Option 2:**\n**🎂 Chocolate Birthday Delight**\n_Rich, moist chocolate cake with dark chocolate ganache - perfect for quick birthday celebrations_\n\n⏱️ **25 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• eggs\n• butter\n• milk\n• baking powder\n• salt\n• vanilla extract\n\n💡 **Why This Match:**\nQuick to make, moist texture, perfect for birthdays\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=easy+chocolate+birthday+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=chocolate+birthday+cake)\n\n💰 **Budget:** $18.99\n---\n\n**Option 3:**\n**🎂 Vanilla Dream**\n_Classic vanilla cake with whipped cream - timeless and versatile_\n\n⏱️ **35 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• sugar\n• eggs\n• butter\n• milk\n• vanilla extract\n• baking powder\n• salt\n\n💡 **Why This Match:**\nVersatile base, quick to make, pairs well with any frosting\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=classic+vanilla+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=vanilla+birthday+cake)\n\n💰 **Budget:** $19.99\n---\n\n💡 **Quick Actions**\n• Reply with `start baking with [cake name]` for guided steps\n• Use 👍 or 👎 on each suggestion so I can learn your taste"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "d26abf4a-18de-49e9-8d3e-23b3612256b9",
+        "timestamp": "2026-04-30T11:04:48.154078",
+        "data": {
+          "cake_id": "cake_002",
+          "cake_name": "Strawberry Bliss"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "d26abf4a-18de-49e9-8d3e-23b3612256b9",
+        "timestamp": "2026-04-30T11:04:48.156908",
+        "data": {
+          "cake_id": "cake_001",
+          "cake_name": "Chocolate Birthday Delight"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "d26abf4a-18de-49e9-8d3e-23b3612256b9",
+        "timestamp": "2026-04-30T11:04:48.159754",
+        "data": {
+          "cake_id": "cake_003",
+          "cake_name": "Vanilla Dream"
+        }
+      },
+      {
+        "type": "user_message",
+        "chat_id": "195ad86d-86f3-4339-badc-59349f1d0219",
+        "timestamp": "2026-04-30T11:05:16.486407",
+        "data": {
+          "message": "Can you help me fix my cake recipe? It came out too dry"
+        }
+      },
+      {
+        "type": "bot_message",
+        "chat_id": "195ad86d-86f3-4339-badc-59349f1d0219",
+        "timestamp": "2026-04-30T11:05:16.489248",
+        "data": {
+          "message": "🏜️ **Dry Cake Detected**\n\n⚠️ **Possible Causes:**\n• Overbaking - the cake was left in the oven too long\n• Too much flour - measuring flour by scooping instead of weighing\n• Not enough liquid - insufficient milk, oil, or eggs\n• High altitude baking - requires recipe adjustments\n• Inadequate cooling - storing while still warm causes moisture loss\n\n🛠️ **Step-by-Step Fixes:**\n\n**Step 1: Check your baking time**\nUse a toothpick inserted in the center - it should have a few moist crumbs, not be completely dry. Reduce baking time by 5-10 minutes next time.\n\n**Step 2: Measure flour correctly**\nUse a kitchen scale (best) or spoon and level method. Don't scoop directly into the bag. Fluffy flour = air = lighter cake.\n\n**Step 3: Add more liquid immediately**\nBrush the cake with simple syrup (1:1 sugar and water), milk, or apple juice. This restores moisture while still warm.\n\n**Step 4: Cool properly**\nLet cake cool completely on a wire rack before wrapping. Cover with plastic wrap or place in an airtight container to retain moisture.\n\n**Step 5: Add moisture with frosting**\nUse a rich frosting or filling (buttercream, cream cheese frosting) to add moisture and flavor.\n\n💡 **Next Time Tips:**\n• Add one extra egg yolk for more moisture\n• Replace half the milk with sour cream or yogurt\n• Add pudding mix to the batter for extra moisture\n• Use oil instead of butter (oil distributes moisture better)\n• Add applesauce or mashed banana for natural moisture\n\n---\n📝 Remember: Baking is a science, but it's also forgiving! These tips will help you get better results.\n"
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "7db585aa-ab3c-49ac-8af1-ebd9caaf5fe1",
+        "timestamp": "2026-04-30T11:05:28.327941",
+        "data": {
+          "cake_id": "cake_008",
+          "cake_name": "5-Minute Mug Cake",
+          "score": 0.6799999999999999,
+          "mood": null
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "7db585aa-ab3c-49ac-8af1-ebd9caaf5fe1",
+        "timestamp": "2026-04-30T11:05:28.331729",
+        "data": {
+          "cake_id": "cake_001",
+          "cake_name": "Chocolate Birthday Delight",
+          "score": 0.44000000000000006,
+          "mood": null
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "7db585aa-ab3c-49ac-8af1-ebd9caaf5fe1",
+        "timestamp": "2026-04-30T11:05:28.335356",
+        "data": {
+          "cake_id": "cake_003",
+          "cake_name": "Vanilla Dream",
+          "score": 0.44000000000000006,
+          "mood": null
+        }
+      },
+      {
+        "type": "user_message",
+        "chat_id": "7db585aa-ab3c-49ac-8af1-ebd9caaf5fe1",
+        "timestamp": "2026-04-30T11:05:28.344493",
+        "data": {
+          "message": "What are some quick and easy cake ideas for beginners?"
+        }
+      },
+      {
+        "type": "bot_message",
+        "chat_id": "7db585aa-ab3c-49ac-8af1-ebd9caaf5fe1",
+        "timestamp": "2026-04-30T11:05:28.348601",
+        "data": {
+          "message": "🎉 Great! You need something quick!\n\n🎂 **Top 3 Recommendations**\n\n**Option 1:**\n**🎂 5-Minute Mug Cake**\n_Ultra-quick chocolate cake baked in a mug - ready in minutes_\n\n⏱️ **5 min** • 📊 **Very easy** • 🍽️ **Serves 1**\n\n🧾 **Ingredients:**\n• flour\n• sugar\n• cocoa powder\n• egg\n• milk\n• oil\n• baking powder\n\n💡 **Why This Match:**\nFastest option available, minimal ingredients, perfect for sudden cravings\n\n✓ Good match overall\n\n💰 **Budget:** $2.99\n---\n\n**Option 2:**\n**🎂 Chocolate Birthday Delight**\n_Rich, moist chocolate cake with dark chocolate ganache - perfect for quick birthday celebrations_\n\n⏱️ **25 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• eggs\n• butter\n• milk\n• baking powder\n• salt\n• vanilla extract\n\n💡 **Why This Match:**\nQuick to make, moist texture, perfect for birthdays\n\n✓ Matches some of your preferences\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=easy+chocolate+birthday+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=chocolate+birthday+cake)\n\n💰 **Budget:** $18.99\n---\n\n**Option 3:**\n**🎂 Vanilla Dream**\n_Classic vanilla cake with whipped cream - timeless and versatile_\n\n⏱️ **35 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• sugar\n• eggs\n• butter\n• milk\n• vanilla extract\n• baking powder\n• salt\n\n💡 **Why This Match:**\nVersatile base, quick to make, pairs well with any frosting\n\n✓ Matches some of your preferences\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=classic+vanilla+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=vanilla+birthday+cake)\n\n💰 **Budget:** $19.99\n---\n\n💡 **Quick Actions**\n• Reply with `start baking with [cake name]` for guided steps\n• Use 👍 or 👎 on each suggestion so I can learn your taste"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "7db585aa-ab3c-49ac-8af1-ebd9caaf5fe1",
+        "timestamp": "2026-04-30T11:05:28.352625",
+        "data": {
+          "cake_id": "cake_008",
+          "cake_name": "5-Minute Mug Cake"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "7db585aa-ab3c-49ac-8af1-ebd9caaf5fe1",
+        "timestamp": "2026-04-30T11:05:28.356099",
+        "data": {
+          "cake_id": "cake_001",
+          "cake_name": "Chocolate Birthday Delight"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "7db585aa-ab3c-49ac-8af1-ebd9caaf5fe1",
+        "timestamp": "2026-04-30T11:05:28.359527",
+        "data": {
+          "cake_id": "cake_003",
+          "cake_name": "Vanilla Dream"
+        }
+      },
+      {
+        "type": "user_message",
+        "chat_id": "02fb9217-5e09-4205-b6f5-b0cee39c4e40",
+        "timestamp": "2026-04-30T11:05:37.519326",
+        "data": {
+          "message": "Surprise me with a unique cake idea!"
+        }
+      },
+      {
+        "type": "bot_message",
+        "chat_id": "02fb9217-5e09-4205-b6f5-b0cee39c4e40",
+        "timestamp": "2026-04-30T11:05:37.522873",
+        "data": {
+          "message": "About \"Surprise me with a unique cake idea!\" - I haven't encountered this before.\n\n❓ That's a new one for me!\n📚 Can you help me learn the right answer?"
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": null,
+        "timestamp": "2026-04-30T11:09:16.728788",
+        "data": {
+          "cake_id": "cake_001",
+          "cake_name": "Chocolate Birthday Delight",
+          "score": 0.5,
+          "mood": null
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": null,
+        "timestamp": "2026-04-30T11:09:16.733071",
+        "data": {
+          "cake_id": "cake_002",
+          "cake_name": "Strawberry Bliss",
+          "score": 0.5,
+          "mood": null
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": null,
+        "timestamp": "2026-04-30T11:09:16.737062",
+        "data": {
+          "cake_id": "cake_003",
+          "cake_name": "Vanilla Dream",
+          "score": 0.5,
+          "mood": null
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "c2f069aa-f7fd-4967-b97a-d059373d729c",
+        "timestamp": "2026-04-30T11:10:26.020841",
+        "data": {
+          "cake_id": "cake_001",
+          "cake_name": "Chocolate Birthday Delight",
+          "score": 0.5,
+          "mood": null
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "c2f069aa-f7fd-4967-b97a-d059373d729c",
+        "timestamp": "2026-04-30T11:10:26.029500",
+        "data": {
+          "cake_id": "cake_002",
+          "cake_name": "Strawberry Bliss",
+          "score": 0.5,
+          "mood": null
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "c2f069aa-f7fd-4967-b97a-d059373d729c",
+        "timestamp": "2026-04-30T11:10:26.034101",
+        "data": {
+          "cake_id": "cake_003",
+          "cake_name": "Vanilla Dream",
+          "score": 0.5,
+          "mood": null
+        }
+      },
+      {
+        "type": "user_message",
+        "chat_id": "c2f069aa-f7fd-4967-b97a-d059373d729c",
+        "timestamp": "2026-04-30T11:10:26.049097",
+        "data": {
+          "message": "Surprise me with a unique cake idea!"
+        }
+      },
+      {
+        "type": "bot_message",
+        "chat_id": "c2f069aa-f7fd-4967-b97a-d059373d729c",
+        "timestamp": "2026-04-30T11:10:26.053365",
+        "data": {
+          "message": "🎂 **Top 3 Recommendations**\n\n**Option 1:**\n**🎂 Chocolate Birthday Delight**\n_Rich, moist chocolate cake with dark chocolate ganache - perfect for quick birthday celebrations_\n\n⏱️ **25 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• eggs\n• butter\n• milk\n• baking powder\n• salt\n• vanilla extract\n\n💡 **Why This Match:**\nQuick to make, moist texture, perfect for birthdays\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=easy+chocolate+birthday+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=chocolate+birthday+cake)\n\n💰 **Budget:** $18.99\n---\n\n**Option 2:**\n**🎂 Strawberry Bliss**\n_Fresh strawberry cake with cream cheese frosting - elegant and refreshing_\n\n⏱️ **45 min** • 📊 **Medium** • 🍽️ **Serves 10**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• fresh strawberries\n• sugar\n• eggs\n• butter\n• cream cheese\n• baking powder\n• vanilla extract\n• lemon juice\n\n💡 **Why This Match:**\nElegant presentation, fresh fruit flavor, great for special occasions\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=strawberry+wedding+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=strawberry+shortcake+elegant)\n\n💰 **Budget:** $22.99\n---\n\n**Option 3:**\n**🎂 Vanilla Dream**\n_Classic vanilla cake with whipped cream - timeless and versatile_\n\n⏱️ **35 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• sugar\n• eggs\n• butter\n• milk\n• vanilla extract\n• baking powder\n• salt\n\n💡 **Why This Match:**\nVersatile base, quick to make, pairs well with any frosting\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=classic+vanilla+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=vanilla+birthday+cake)\n\n💰 **Budget:** $19.99\n---\n\n💡 **Quick Actions**\n• Reply with `start baking with [cake name]` for guided steps\n• Use 👍 or 👎 on each suggestion so I can learn your taste"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "c2f069aa-f7fd-4967-b97a-d059373d729c",
+        "timestamp": "2026-04-30T11:10:26.058010",
+        "data": {
+          "cake_id": "cake_001",
+          "cake_name": "Chocolate Birthday Delight"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "c2f069aa-f7fd-4967-b97a-d059373d729c",
+        "timestamp": "2026-04-30T11:10:26.062309",
+        "data": {
+          "cake_id": "cake_002",
+          "cake_name": "Strawberry Bliss"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "c2f069aa-f7fd-4967-b97a-d059373d729c",
+        "timestamp": "2026-04-30T11:10:26.067941",
+        "data": {
+          "cake_id": "cake_003",
+          "cake_name": "Vanilla Dream"
+        }
+      },
+      {
+        "type": "user_message",
+        "chat_id": "fcd438b4-22d1-4453-b126-f6238aa60f22",
+        "timestamp": "2026-04-30T12:11:17.569500",
+        "data": {
+          "message": "hi"
+        }
+      },
+      {
+        "type": "bot_message",
+        "chat_id": "fcd438b4-22d1-4453-b126-f6238aa60f22",
+        "timestamp": "2026-04-30T12:11:17.574497",
+        "data": {
+          "message": "Hi uki! I'm your cake assistant. Ask me for cake ideas, recipes, or baking help."
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "fcd438b4-22d1-4453-b126-f6238aa60f22",
+        "timestamp": "2026-04-30T12:12:53.228365",
+        "data": {
+          "cake_id": "cake_001",
+          "cake_name": "Chocolate Birthday Delight",
+          "score": 0.6749999999999999,
+          "mood": null
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "fcd438b4-22d1-4453-b126-f6238aa60f22",
+        "timestamp": "2026-04-30T12:12:53.234363",
+        "data": {
+          "cake_id": "cake_004",
+          "cake_name": "Vegan Chocolate Bliss",
+          "score": 0.6749999999999999,
+          "mood": null
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "fcd438b4-22d1-4453-b126-f6238aa60f22",
+        "timestamp": "2026-04-30T12:12:53.239359",
+        "data": {
+          "cake_id": "cake_008",
+          "cake_name": "5-Minute Mug Cake",
+          "score": 0.6749999999999999,
+          "mood": null
+        }
+      },
+      {
+        "type": "user_message",
+        "chat_id": "fcd438b4-22d1-4453-b126-f6238aa60f22",
+        "timestamp": "2026-04-30T12:12:53.253361",
+        "data": {
+          "message": "Recommend me a chocolate cake"
+        }
+      },
+      {
+        "type": "bot_message",
+        "chat_id": "fcd438b4-22d1-4453-b126-f6238aa60f22",
+        "timestamp": "2026-04-30T12:12:53.258348",
+        "data": {
+          "message": "🎂 **Top 3 Recommendations**\n\n**Option 1:**\n**🎂 Chocolate Birthday Delight**\n_Rich, moist chocolate cake with dark chocolate ganache - perfect for quick birthday celebrations_\n\n⏱️ **25 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• eggs\n• butter\n• milk\n• baking powder\n• salt\n• vanilla extract\n\n💡 **Why This Match:**\nQuick to make, moist texture, perfect for birthdays\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=easy+chocolate+birthday+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=chocolate+birthday+cake)\n\n💰 **Budget:** $18.99\n---\n\n**Option 2:**\n**🎂 Vegan Chocolate Bliss**\n_Completely vegan chocolate cake - rich and indulgent without any animal products_\n\n⏱️ **40 min** • 📊 **Medium** • 🍽️ **Serves 10**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• vegetable oil\n• almond milk\n• baking powder\n• baking soda\n• vanilla extract\n• apple cider vinegar\n\n💡 **Why This Match:**\nPerfect for vegan guests, rich chocolate flavor, completely plant-based\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=vegan+chocolate+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=vegan+chocolate+cake+recipe)\n\n💰 **Budget:** $24.99\n---\n\n**Option 3:**\n**🎂 5-Minute Mug Cake**\n_Ultra-quick chocolate cake baked in a mug - ready in minutes_\n\n⏱️ **5 min** • 📊 **Very easy** • 🍽️ **Serves 1**\n\n🧾 **Ingredients:**\n• flour\n• sugar\n• cocoa powder\n• egg\n• milk\n• oil\n• baking powder\n\n💡 **Why This Match:**\nFastest option available, minimal ingredients, perfect for sudden cravings\n\n✓ Good match overall\n\n💰 **Budget:** $2.99\n---\n\n💡 **Quick Actions**\n• Reply with `start baking with [cake name]` for guided steps\n• Use 👍 or 👎 on each suggestion so I can learn your taste"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "fcd438b4-22d1-4453-b126-f6238aa60f22",
+        "timestamp": "2026-04-30T12:12:53.262356",
+        "data": {
+          "cake_id": "cake_001",
+          "cake_name": "Chocolate Birthday Delight"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "fcd438b4-22d1-4453-b126-f6238aa60f22",
+        "timestamp": "2026-04-30T12:12:53.268343",
+        "data": {
+          "cake_id": "cake_004",
+          "cake_name": "Vegan Chocolate Bliss"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "fcd438b4-22d1-4453-b126-f6238aa60f22",
+        "timestamp": "2026-04-30T12:12:53.273339",
+        "data": {
+          "cake_id": "cake_008",
+          "cake_name": "5-Minute Mug Cake"
+        }
+      },
+      {
+        "type": "user_message",
+        "chat_id": "acf3a9d0-1cee-4f33-acd0-61dcba2d820a",
+        "timestamp": "2026-04-30T16:04:26.037157",
+        "data": {
+          "message": "hi"
+        }
+      },
+      {
+        "type": "bot_message",
+        "chat_id": "acf3a9d0-1cee-4f33-acd0-61dcba2d820a",
+        "timestamp": "2026-04-30T16:04:26.043182",
+        "data": {
+          "message": "Hi uki! I'm your cake assistant. Ask me for cake ideas, recipes, or baking help."
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "acf3a9d0-1cee-4f33-acd0-61dcba2d820a",
+        "timestamp": "2026-04-30T16:04:59.556943",
+        "data": {
+          "cake_id": "cake_001",
+          "cake_name": "Chocolate Birthday Delight",
+          "score": 0.6749999999999999,
+          "mood": null
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "acf3a9d0-1cee-4f33-acd0-61dcba2d820a",
+        "timestamp": "2026-04-30T16:04:59.562553",
+        "data": {
+          "cake_id": "cake_004",
+          "cake_name": "Vegan Chocolate Bliss",
+          "score": 0.6749999999999999,
+          "mood": null
+        }
+      },
+      {
+        "type": "recommended_cake",
+        "chat_id": "acf3a9d0-1cee-4f33-acd0-61dcba2d820a",
+        "timestamp": "2026-04-30T16:04:59.567893",
+        "data": {
+          "cake_id": "cake_008",
+          "cake_name": "5-Minute Mug Cake",
+          "score": 0.6749999999999999,
+          "mood": null
+        }
+      },
+      {
+        "type": "user_message",
+        "chat_id": "acf3a9d0-1cee-4f33-acd0-61dcba2d820a",
+        "timestamp": "2026-04-30T16:04:59.583266",
+        "data": {
+          "message": "recommend me a chocolate cake"
+        }
+      },
+      {
+        "type": "bot_message",
+        "chat_id": "acf3a9d0-1cee-4f33-acd0-61dcba2d820a",
+        "timestamp": "2026-04-30T16:04:59.588517",
+        "data": {
+          "message": "🎂 **Top 3 Recommendations**\n\n**Option 1:**\n**🎂 Chocolate Birthday Delight**\n_Rich, moist chocolate cake with dark chocolate ganache - perfect for quick birthday celebrations_\n\n⏱️ **25 min** • 📊 **Easy** • 🍽️ **Serves 12**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• eggs\n• butter\n• milk\n• baking powder\n• salt\n• vanilla extract\n\n💡 **Why This Match:**\nQuick to make, moist texture, perfect for birthdays\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=easy+chocolate+birthday+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=chocolate+birthday+cake)\n\n💰 **Budget:** $18.99\n---\n\n**Option 2:**\n**🎂 Vegan Chocolate Bliss**\n_Completely vegan chocolate cake - rich and indulgent without any animal products_\n\n⏱️ **40 min** • 📊 **Medium** • 🍽️ **Serves 10**\n\n🧾 **Ingredients:**\n• all-purpose flour\n• cocoa powder\n• sugar\n• vegetable oil\n• almond milk\n• baking powder\n• baking soda\n• vanilla extract\n• apple cider vinegar\n\n💡 **Why This Match:**\nPerfect for vegan guests, rich chocolate flavor, completely plant-based\n\n✓ Good match overall\n\n🎨 **Design Inspiration:**\n[🔗 View on Pinterest.com](https://www.pinterest.com/search/?q=vegan+chocolate+cake)\n[🔗 View on Google.com](https://www.google.com/images?q=vegan+chocolate+cake+recipe)\n\n💰 **Budget:** $24.99\n---\n\n**Option 3:**\n**🎂 5-Minute Mug Cake**\n_Ultra-quick chocolate cake baked in a mug - ready in minutes_\n\n⏱️ **5 min** • 📊 **Very easy** • 🍽️ **Serves 1**\n\n🧾 **Ingredients:**\n• flour\n• sugar\n• cocoa powder\n• egg\n• milk\n• oil\n• baking powder\n\n💡 **Why This Match:**\nFastest option available, minimal ingredients, perfect for sudden cravings\n\n✓ Good match overall\n\n💰 **Budget:** $2.99\n---\n\n💡 **Quick Actions**\n• Reply with `start baking with [cake name]` for guided steps\n• Use 👍 or 👎 on each suggestion so I can learn your taste"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "acf3a9d0-1cee-4f33-acd0-61dcba2d820a",
+        "timestamp": "2026-04-30T16:04:59.594571",
+        "data": {
+          "cake_id": "cake_001",
+          "cake_name": "Chocolate Birthday Delight"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "acf3a9d0-1cee-4f33-acd0-61dcba2d820a",
+        "timestamp": "2026-04-30T16:04:59.598993",
+        "data": {
+          "cake_id": "cake_004",
+          "cake_name": "Vegan Chocolate Bliss"
+        }
+      },
+      {
+        "type": "viewed_cake",
+        "chat_id": "acf3a9d0-1cee-4f33-acd0-61dcba2d820a",
+        "timestamp": "2026-04-30T16:04:59.604550",
+        "data": {
+          "cake_id": "cake_008",
+          "cake_name": "5-Minute Mug Cake"
+        }
+      }
+    ]
+  }
+}

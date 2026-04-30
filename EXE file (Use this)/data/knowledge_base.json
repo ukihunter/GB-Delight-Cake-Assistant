@@ -1,0 +1,94 @@
+{
+  "intents": {
+    "greeting": {
+      "keywords": [
+        "hello",
+        "hi",
+        "hey",
+        "greetings"
+      ],
+      "responses": [
+        "Hello! Welcome to GB Delight. How can I help you today?",
+        "Hi there! What kind of cake can I help you find?"
+      ]
+    },
+    "recommend_cake": {
+      "keywords": [
+        "recommend",
+        "suggest",
+        "what cake",
+        "which cake"
+      ],
+      "responses": [
+        "I'd love to recommend a cake! Tell me your preferences."
+      ]
+    },
+    "ask_about_flavor": {
+      "keywords": [
+        "flavor",
+        "taste",
+        "what does it taste like"
+      ],
+      "responses": [
+        "Let me tell you about that flavor..."
+      ]
+    },
+    "inquiry": {
+      "keywords": [
+        "tell me",
+        "information",
+        "about",
+        "details"
+      ],
+      "responses": [
+        "Here's what I can tell you..."
+      ]
+    }
+  },
+  "entities": {
+    "flavors": [
+      "chocolate",
+      "vanilla",
+      "strawberry",
+      "caramel",
+      "lemon"
+    ],
+    "dietary": [
+      "vegan",
+      "gluten_free",
+      "dairy_free"
+    ]
+  },
+  "learned_qa": [],
+  "learned_pairs": [
+    {
+      "id": "learn_1777481029.566273",
+      "question": "do you know about  a mirror glaze cake?",
+      "answer": "A mirror glaze cake is a beautifully decorated cake covered with a smooth, shiny glaze that reflects light like a mirror. This glaze is made from ingredients such as sugar, gelatin, chocolate, and condensed milk, and is poured over a chilled or frozen cake to create a flawless finish. Mirror glaze cakes are popular for their eye-catching appearance, often featuring colorful swirls or artistic designs, making them look like edible works of art.",
+      "confidence": "low",
+      "timestamp": "2026-04-29T22:13:49.566281",
+      "tokens": [
+        "mirror",
+        "know",
+        "about",
+        "glaze",
+        "cake"
+      ],
+      "usage_count": 0,
+      "feedback_count": 0
+    },
+    {
+      "id": "learn_1777482579.107035",
+      "question": "What is a cheesecake?",
+      "answer": "A cheesecake is a rich and creamy dessert made with a mixture of cream cheese, sugar, and eggs on a crust, often made from crushed biscuits.",
+      "confidence": "low",
+      "timestamp": "2026-04-29T22:39:39.107043",
+      "tokens": [
+        "cheesecake"
+      ],
+      "usage_count": 0,
+      "feedback_count": 0
+    }
+  ],
+  "learning_count": 2
+}

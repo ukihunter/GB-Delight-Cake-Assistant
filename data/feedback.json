@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "event_id": "7c72e6e4-c18f-4f13-bd1f-3fd0a47183c2",
+      "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+      "chat_id": "06158764-82cb-4227-a899-d432131847fe",
+      "target_type": "response",
+      "target_id": "msg_1776884126217_7738",
+      "feedback": "like",
+      "timestamp": "2026-04-23T00:25:30.470492",
+      "context": {
+        "source": "chat_ui",
+        "message_id": "msg_1776884126217_7738",
+        "chat_id": "06158764-82cb-4227-a899-d432131847fe"
+      }
+    },
+    {
+      "event_id": "23dd30d2-a35b-4f5e-a2fc-bd4313b7cd7f",
+      "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+      "chat_id": "3a574eb3-dda7-47bb-80d3-e65366af7848",
+      "target_type": "response",
+      "target_id": "msg_1776885188134_1140",
+      "feedback": "like",
+      "timestamp": "2026-04-23T00:43:13.282094",
+      "context": {
+        "source": "chat_ui",
+        "message_id": "msg_1776885188134_1140",
+        "chat_id": "3a574eb3-dda7-47bb-80d3-e65366af7848"
+      }
+    },
+    {
+      "event_id": "ad1adb38-241d-4f7c-a058-81d140e8c7ce",
+      "user_id": "c3139c18-2c51-4960-8654-1e6b2abb3f70",
+      "chat_id": "a7c245b2-14a6-4486-9d5c-6fdd468ad23b",
+      "target_type": "response",
+      "target_id": "msg_1776935794791_5843",
+      "feedback": "like",
+      "timestamp": "2026-04-23T14:46:37.510081",
+      "context": {
+        "source": "chat_ui",
+        "message_id": "msg_1776935794791_5843",
+        "chat_id": "a7c245b2-14a6-4486-9d5c-6fdd468ad23b"
+      }
+    }
+  ]
+}

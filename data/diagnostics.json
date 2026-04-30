@@ -1,0 +1,380 @@
+{
+  "baking_problems": {
+    "dry_cake": {
+      "keywords": ["dry", "dried out", "moisture", "moist", "crumbly", "texture"],
+      "problem_name": "Dry Cake",
+      "emoji": "🏜️",
+      "possible_causes": [
+        "Overbaking - the cake was left in the oven too long",
+        "Too much flour - measuring flour by scooping instead of weighing",
+        "Not enough liquid - insufficient milk, oil, or eggs",
+        "High altitude baking - requires recipe adjustments",
+        "Inadequate cooling - storing while still warm causes moisture loss"
+      ],
+      "fixes": [
+        {
+          "step": 1,
+          "action": "Check your baking time",
+          "details": "Use a toothpick inserted in the center - it should have a few moist crumbs, not be completely dry. Reduce baking time by 5-10 minutes next time."
+        },
+        {
+          "step": 2,
+          "action": "Measure flour correctly",
+          "details": "Use a kitchen scale (best) or spoon and level method. Don't scoop directly into the bag. Fluffy flour = air = lighter cake."
+        },
+        {
+          "step": 3,
+          "action": "Add more liquid immediately",
+          "details": "Brush the cake with simple syrup (1:1 sugar and water), milk, or apple juice. This restores moisture while still warm."
+        },
+        {
+          "step": 4,
+          "action": "Cool properly",
+          "details": "Let cake cool completely on a wire rack before wrapping. Cover with plastic wrap or place in an airtight container to retain moisture."
+        },
+        {
+          "step": 5,
+          "action": "Add moisture with frosting",
+          "details": "Use a rich frosting or filling (buttercream, cream cheese frosting) to add moisture and flavor."
+        }
+      ],
+      "next_time_tips": [
+        "Add one extra egg yolk for more moisture",
+        "Replace half the milk with sour cream or yogurt",
+        "Add pudding mix to the batter for extra moisture",
+        "Use oil instead of butter (oil distributes moisture better)",
+        "Add applesauce or mashed banana for natural moisture"
+      ]
+    },
+    "flat_cake": {
+      "keywords": ["flat", "didn't rise", "dense", "not fluffy", "low", "collapsed"],
+      "problem_name": "Flat Cake",
+      "emoji": "📉",
+      "possible_causes": [
+        "Expired or incorrect leavening agents - baking soda/powder loses potency",
+        "Insufficient mixing - dry ingredients not properly combined with wet",
+        "Oven too cold - temperature wasn't preheated or maintained",
+        "Too much liquid - batter too thin to hold air bubbles",
+        "Opened oven door too early - released trapped heat and moisture"
+      ],
+      "fixes": [
+        {
+          "step": 1,
+          "action": "Check leavening agents",
+          "details": "Baking powder has a shelf life of 6 months to 2 years. Baking soda lasts 5-10 years but check if it smells fresh. Test by adding to vinegar - it should fizz vigorously."
+        },
+        {
+          "step": 2,
+          "action": "Preheat your oven properly",
+          "details": "Turn on oven 15-20 minutes before baking. Use an oven thermometer to verify it reaches the correct temperature."
+        },
+        {
+          "step": 3,
+          "action": "Mix correctly",
+          "details": "Cream butter and sugar until light and fluffy (2-3 minutes). Gently fold in dry ingredients to maintain air. Don't overmix after adding flour."
+        },
+        {
+          "step": 4,
+          "action": "Adjust liquid levels",
+          "details": "Don't open oven door until at least 2/3 through baking time. Sudden temperature changes collapse the cake structure."
+        },
+        {
+          "step": 5,
+          "action": "Avoid oven door opening",
+          "details": "If you must peek, open gently and quickly. Opening releases heat and moisture that the cake needs to rise."
+        }
+      ],
+      "next_time_tips": [
+        "Replace 1/4 cup flour with cornstarch for a lighter cake",
+        "Add cream of tartar to baking soda (1:2 ratio)",
+        "Separate eggs - beat whites until stiff peaks, fold in last",
+        "Use fresh baking powder, not baking soda alone",
+        "Don't skip preheating the oven"
+      ]
+    },
+    "burnt_cake": {
+      "keywords": ["burnt", "burned", "brown", "black", "charred", "overdone", "too dark"],
+      "problem_name": "Burnt Cake",
+      "emoji": "🔥",
+      "possible_causes": [
+        "Oven temperature too high - running hotter than the set temperature",
+        "Baking time too long - left in oven past the intended time",
+        "Wrong rack position - too close to heating element",
+        "Dark pans - absorb more heat than light pans",
+        "Crowded oven - blocks air circulation and causes uneven heating"
+      ],
+      "fixes": [
+        {
+          "step": 1,
+          "action": "Salvage the current cake",
+          "details": "If only the edges are burnt, carefully trim them off with a serrated knife. If the whole cake is dark but not rock-hard, serve with frosting to mask the flavor."
+        },
+        {
+          "step": 2,
+          "action": "Calibrate your oven",
+          "details": "Use an oven thermometer to check actual temperature. Many ovens run 25-50°F hotter or colder than displayed. Adjust recipes accordingly."
+        },
+        {
+          "step": 3,
+          "action": "Choose the right pan",
+          "details": "Use light-colored metal pans (aluminum or steel). Avoid dark or glass pans, which absorb more heat. Line bottom with parchment paper for protection."
+        },
+        {
+          "step": 4,
+          "action": "Position correctly",
+          "details": "Place cakes on the middle rack. This ensures even heat distribution above and below. Avoid the top and bottom racks which cook faster."
+        },
+        {
+          "step": 5,
+          "action": "Check time frequently",
+          "details": "Start checking for doneness 5 minutes before the recipe time. Toothpick test: inserted in center should come out with a few moist crumbs, not wet."
+        }
+      ],
+      "next_time_tips": [
+        "Reduce oven temperature by 25°F and increase baking time slightly",
+        "Use parchment paper on pan bottoms to prevent browning",
+        "Tent the cake with aluminum foil if browning too quickly (halfway through)",
+        "Bake at lower temperature for longer time rather than high temperature",
+        "Ensure oven racks have adequate space for air circulation"
+      ]
+    },
+    "undercooked_cake": {
+      "keywords": ["undercooked", "raw", "gooey", "batter", "wet", "not cooked through", "center is wet"],
+      "problem_name": "Undercooked Cake",
+      "emoji": "💧",
+      "possible_causes": [
+        "Insufficient baking time - removed from oven too early",
+        "Oven temperature too low - temperature not reached or lost",
+        "Incorrect toothpick test - didn't insert to center or tested wrong spot",
+        "Very wet batter - recipe requires more baking time than usual",
+        "Large cake size - needs more time for heat to reach center"
+      ],
+      "fixes": [
+        {
+          "step": 1,
+          "action": "Return to oven if still warm",
+          "details": "If cake is just barely undercooked, return to oven for 5-10 more minutes. Check with toothpick in center - should come out clean or with moist crumbs only."
+        },
+        {
+          "step": 2,
+          "action": "Verify oven temperature",
+          "details": "Use an oven thermometer. Many ovens run cooler than displayed. If yours does, increase temperature and bake longer."
+        },
+        {
+          "step": 3,
+          "action": "Test properly",
+          "details": "Insert toothpick in the center (deepest part). For brownies, a few crumbs are OK. For cakes, should be mostly clean. If unsure, bake 2-3 more minutes."
+        },
+        {
+          "step": 4,
+          "action": "Use a thermometer",
+          "details": "Check internal temperature: cake is done at 200-210°F (93-99°C) for most cakes, 215-220°F (102-104°C) for denser cakes."
+        },
+        {
+          "step": 5,
+          "action": "Give it more time",
+          "details": "Don't rush! Each additional minute matters. It's better to slightly overbake than underbake. Slightly dry > wet and gooey."
+        }
+      ],
+      "next_time_tips": [
+        "Use a cake thermometer for guaranteed results",
+        "Increase baking time by 10-15 minutes for every 2 inches of pan depth",
+        "Bake at lower temperature for longer time (prevents burning while ensuring even cooking)",
+        "Fill pans only 1/2 to 2/3 full for even baking",
+        "Check multiple spots - center, corners, and between edges"
+      ]
+    },
+    "cracked_cake": {
+      "keywords": ["crack", "cracked", "split", "broken", "fractured", "hole in top"],
+      "problem_name": "Cracked or Split Cake",
+      "emoji": "🌙",
+      "possible_causes": [
+        "Oven temperature too high - causes rapid rise and cracking",
+        "Too much leavening - too much baking soda/powder causes over-rising",
+        "Batter too stiff - doesn't rise evenly, creates stress cracks",
+        "Rapid temperature change - opening oven door suddenly",
+        "Pan too small - batter rises too much and cracks"
+      ],
+      "fixes": [
+        {
+          "step": 1,
+          "action": "The cake is still fine to eat!",
+          "details": "Cracks don't affect flavor or texture. Use frosting to hide cracks. A layer cake can be frosted between layers to conceal cracks completely."
+        },
+        {
+          "step": 2,
+          "action": "Check leavening amounts",
+          "details": "Reduce baking soda/powder by 25%. Too much causes excessive rising and stress. Most recipes need 1 tsp baking soda per cup of flour."
+        },
+        {
+          "step": 3,
+          "action": "Adjust oven temperature",
+          "details": "Use an oven thermometer to verify temperature. If running hot, reduce by 25°F. Lower and slower = more even baking."
+        },
+        {
+          "step": 4,
+          "action": "Create cover crust",
+          "details": "Lower oven temperature to 325°F for first 15 minutes, then raise to 350°F. Initial cooler baking forms a flexible surface that won't crack."
+        },
+        {
+          "step": 5,
+          "action": "Avoid oven door shocks",
+          "details": "Don't open door before 2/3 of baking time. Sudden temperature drops cause cracking as the cake structure contracts."
+        }
+      ],
+      "next_time_tips": [
+        "Make batter slightly thinner - cracks often indicate too-stiff batter",
+        "Use appropriate pan size - batter should fill pan 1/2 to 2/3 full",
+        "Add 1-2 tablespoons of sour cream to batter for flexibility",
+        "Cover top loosely with foil if browning too fast",
+        "Use a cake strip to prevent doming and uneven baking"
+      ]
+    },
+    "sinking_cake": {
+      "keywords": ["sink", "sunken", "dip", "center sinks", "collapsed center", "concave"],
+      "problem_name": "Sinking Cake",
+      "emoji": "⬇️",
+      "possible_causes": [
+        "Underbaked - interior still soft and collapses after removal",
+        "Oven too hot - outside sets while inside remains raw",
+        "Too much sugar - absorbs moisture and makes structure weak",
+        "Too much leavening - over-rises then can't sustain the structure",
+        "Opened door during baking - disrupts rising and cooling"
+      ],
+      "fixes": [
+        {
+          "step": 1,
+          "action": "Level the cake if possible",
+          "details": "Use a serrated knife or cake leveler to create a flat surface. The sunken part can be trimmed away and filled with frosting."
+        },
+        {
+          "step": 2,
+          "action": "Ensure thorough baking",
+          "details": "Next time, bake until a thermometer reads 200-210°F in the center. Don't rely on appearance alone - interior must be fully set."
+        },
+        {
+          "step": 3,
+          "action": "Balance sugar levels",
+          "details": "Too much sugar weakens the gluten structure. Use exactly as much as the recipe specifies. Don't add extra for sweetness - adjust frosting instead."
+        },
+        {
+          "step": 4,
+          "action": "Reduce leavening",
+          "details": "Cut baking soda/powder by 10-25%. Too much causes the cake to rise beyond what the structure can support, leading to collapse."
+        },
+        {
+          "step": 5,
+          "action": "Cool gradually",
+          "details": "Leave cake in pan for 10-15 minutes after removing from oven. The pan supports it while the structure sets. Let it cool completely before flipping."
+        }
+      ],
+      "next_time_tips": [
+        "Don't open oven door until at least 3/4 of baking time has passed",
+        "Use the correct pan size - too large and cake doesn't have support",
+        "Add a stabilizer like cornstarch (1 tbsp per cup flour)",
+        "Make sure leavening agents aren't expired",
+        "Let cake cool completely in pan before turning out"
+      ]
+    },
+    "uneven_baking": {
+      "keywords": ["uneven", "lopsided", "one side cooked", "one side raw", "inconsistent", "not uniform"],
+      "problem_name": "Uneven Baking",
+      "emoji": "⚖️",
+      "possible_causes": [
+        "Oven hot spots - temperature varies in different areas of oven",
+        "Oven racks not level - pan tilts and settles unevenly",
+        "Crowded oven - poor air circulation around pans",
+        "Thicker batter on one side - poured unevenly into pan",
+        "Uneven heat distribution - usually a thermostat issue"
+      ],
+      "fixes": [
+        {
+          "step": 1,
+          "action": "Map your oven's hot spots",
+          "details": "Place an oven thermometer in different spots. Note the variations. Front, back, top, bottom - where's hottest? Rotate pans accordingly next time."
+        },
+        {
+          "step": 2,
+          "action": "Check oven level",
+          "details": "Place a level on the oven rack. It should be perfectly horizontal. If not, shim with a metal spacer to level the rack."
+        },
+        {
+          "step": 3,
+          "action": "Rotate pans during baking",
+          "details": "Halfway through baking, rotate pan 180°. If using multiple pans, swap shelf positions (top to bottom). This compensates for hot spots."
+        },
+        {
+          "step": 4,
+          "action": "Give batter room",
+          "details": "Don't crowd the oven. Leave at least 2 inches between pan edges and oven walls. Air needs to circulate for even baking."
+        },
+        {
+          "step": 5,
+          "action": "Pour batter evenly",
+          "details": "Tap pan gently on counter to settle batter evenly. Use a spatula to level surface. Even layer = even baking."
+        }
+      ],
+      "next_time_tips": [
+        "Use an oven thermometer permanently to track temperature variations",
+        "Bake one pan at a time if uneven baking persists",
+        "Use baking strips to prevent excessive browning of edges",
+        "Keep oven door closed except during planned rotations",
+        "Arrange racks before preheating for optimal air circulation"
+      ]
+    },
+    "sticky_cake": {
+      "keywords": ["sticky", "gummy", "wet", "damp", "humid", "moisture condensed"],
+      "problem_name": "Sticky Cake",
+      "emoji": "🍯",
+      "possible_causes": [
+        "Not cooled completely - stores moisture while still warm",
+        "Humid environment - absorbs moisture from the air",
+        "Stored without proper sealing - exposed to humidity",
+        "Underbaked - interior hasn't set properly",
+        "Wrong storage method - plastic wrap directly on warm cake creates steam"
+      ],
+      "fixes": [
+        {
+          "step": 1,
+          "action": "Cool completely",
+          "details": "Leave cake on wire rack until completely cooled to room temperature (at least 1-2 hours). Never store warm cake."
+        },
+        {
+          "step": 2,
+          "action": "Store properly",
+          "details": "Wrap cooled cake in plastic wrap or place in airtight container AFTER it's cooled. This prevents humidity absorption while retaining moisture."
+        },
+        {
+          "step": 3,
+          "action": "Use desiccants",
+          "details": "Place a silica gel packet or uncooked rice in storage container to absorb excess moisture in humid climates."
+        },
+        {
+          "step": 4,
+          "action": "Extend baking time",
+          "details": "If cake is underbaked, return to oven for 5-10 more minutes next time. Underbaked cakes stay gummy regardless of cooling/storage."
+        },
+        {
+          "step": 5,
+          "action": "Ventilate storage",
+          "details": "In humid climates, store in airtight container in coolest part of your home. Consider using a dehumidifier in your kitchen."
+        }
+      ],
+      "next_time_tips": [
+        "Bake a bit longer than the recipe suggests if you live in a humid area",
+        "Store in refrigerator (extends life and reduces stickiness)",
+        "Place parchment paper between cake layers for easier separation",
+        "Use a cake box with ventilation holes if storing at room temperature",
+        "Dust lightly with powdered sugar before storing to prevent sticking"
+      ]
+    }
+  },
+  "general_responses": {
+    "unclear_problem": {
+      "message": "I'd love to help! Could you describe your baking problem more specifically? Here are some common issues I can help with:\n\n• 🏜️ Dry cake\n• 📉 Flat cake\n• 🔥 Burnt cake\n• 💧 Undercooked cake\n• 🌙 Cracked cake\n• ⬇️ Sinking cake\n• ⚖️ Uneven baking\n• 🍯 Sticky cake\n\nTell me what happened, and I'll provide detailed solutions!"
+    },
+    "not_cake_issue": {
+      "message": "It sounds like you might be describing a baking issue, but I'm not quite sure. I specialize in cake problems! If you have a question about cakes, baking techniques, or recommendations, I'm here to help. What would you like to know?"
+    }
+  }
+}
