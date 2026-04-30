@@ -84,9 +84,3 @@ Learn about cakes and baking concepts:
 - do you know how long a cake stays fresh  
 
 ---
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/GB-Delight-Cake-Assistant.git
